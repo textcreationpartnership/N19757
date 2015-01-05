@@ -126,8 +126,8 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:025807_0000_0FCF225260AE7480"/>
-            <pb facs="tcp:025807_0001_0FCEEFDCA5E8B258"/>
+            <pb facs="unknown:025807_0000_0FCF225260AE7480"/>
+            <pb facs="unknown:025807_0001_0FCEEFDCA5E8B258"/>
             <p>
                <figure>
                   <head>
@@ -139,7 +139,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:025807_0002_0FCEEFE1E2A36E80"/>
+            <pb facs="unknown:025807_0002_0FCEEFE1E2A36E80"/>
             <p>THE BRITISH ALBUM. A COLLECTION OF POEMS.</p>
             <q>
                <l>Oft from her careleſs hand the Wand'ring Muſe</l>
@@ -151,7 +151,7 @@
                <hi>BELKNAP</hi> AND <hi>HALL's EDITION.</hi> PRINTED AT THE Apollo Preſs, IN BOSTON, BY BELKNAP AND HALL. SOLD AT THEIR OFFICE STATE STREET, AND AT THE SEVERAL BOOKSTORES. MDCCXCIII.</p>
          </div>
          <div type="illustration">
-            <pb facs="tcp:025807_0003_0FCEEFEA99F79D10"/>
+            <pb facs="unknown:025807_0003_0FCEEFEA99F79D10"/>
             <p>
                <figure>
                   <head>
@@ -163,13 +163,13 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:025807_0004_0FCEEFEBAC52D8F8"/>
+            <pb facs="unknown:025807_0004_0FCEEFEBAC52D8F8"/>
             <p>THE <hi>BRITISH ALBUM.</hi> CONTAINING THE POEMS OF DELLA CRUSCA, ANNA MATILDA, <hi>ARLEY, BENEDICT, THE BARD, &amp;c. &amp;c. &amp;c.</hi> REVISED AND CORRECTED BY THEIR RESPECTIVE AUTHORS.</p>
             <p>
                <hi>FIRST AMERICAN EDITION,</hi> FROM THE FOURTH LONDON EDITION. BOSTON: PRINTED BY AND FOR BELKNAP AND HALL, STATE STREET. 1793.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:025807_0005_0FCEEFF989C40BB8"/>
+            <pb facs="unknown:025807_0005_0FCEEFF989C40BB8"/>
             <head>TO RICHARD BRINSLEY SHERIDAN, <abbr>ESQ.</abbr>
             </head>
             <opener>
@@ -186,7 +186,7 @@
             </closer>
          </div>
          <div type="preface">
-            <pb facs="tcp:025807_0006_0FCF219C48C9E890"/>
+            <pb facs="unknown:025807_0006_0FCF219C48C9E890"/>
             <head>PREFACE.</head>
             <p>
                <hi>THE reputation of the following</hi> POEMS <hi>is ſo well eſtabliſhed, that it would be uſeleſs to ſay more of them at preſent, than what may be neceſſary to gratify future curioſity. It is there<g ref="char:EOLhyphen"/>fore ſufficient to obſerve, that through the medium of a</hi> DAILY PRINT, <hi>they were firſt preſented to the Public, and obtained that general notice, to which they are ſo eminently, and ſo juſtly en<g ref="char:EOLhyphen"/>titled.</hi>
@@ -198,7 +198,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:025807_0007_0FCF219D18705130"/>
+            <pb facs="unknown:025807_0007_0FCF219D18705130"/>
             <head>THE ADIEU AND RECAL TO LOVE.</head>
             <lg>
                <l>Go, idle Boy! I quit thy pow'r;</l>
@@ -222,7 +222,7 @@
                <l>And chilling ev'ry zephyr blows,</l>
                <l>And ev'ry ſtream untuneful flows;</l>
                <l>
-                  <pb n="2" facs="tcp:025807_0008_0FCF219E8E8289E0"/>
+                  <pb n="2" facs="unknown:025807_0008_0FCF219E8E8289E0"/>
 No rapture ſwells the linnet's voice,</l>
                <l>No more the vocal groves rejoice;</l>
                <l>And e'en thy ſong, <hi>ſweet Bird of Eve!</hi>
@@ -260,7 +260,7 @@ No rapture ſwells the linnet's voice,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0009_0FCF21A010876260"/>
+            <pb facs="unknown:025807_0009_0FCF21A010876260"/>
             <head>TO DELLA CRUSCA. THE PEN.</head>
             <lg>
                <l>O! SEIZE again thy golden quill,</l>
@@ -284,7 +284,7 @@ No rapture ſwells the linnet's voice,</l>
                <l>Immerſe it in her rainbow hues,</l>
                <l>Now, what the Godheads bid, refuſe.</l>
                <l>
-                  <pb n="4" facs="tcp:025807_0010_0FCF21A1F788DBA0"/>
+                  <pb n="4" facs="unknown:025807_0010_0FCF21A1F788DBA0"/>
 APOLLO, CUPID, ſhall inſpire,</l>
                <l>And aid thee with their blended fire.</l>
                <l>The <hi>one,</hi> poetic language give,</l>
@@ -301,7 +301,7 @@ APOLLO, CUPID, ſhall inſpire,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0011_0FCF21A3092B4A40"/>
+            <pb facs="unknown:025807_0011_0FCF21A3092B4A40"/>
             <head>TO ANNA MATILDA.</head>
             <lg>
                <l>I KNOW thee well, enchanting Maid,</l>
@@ -325,7 +325,7 @@ APOLLO, CUPID, ſhall inſpire,</l>
                <l>When all was dreary to behold,</l>
                <l>And many a boſom-friend grew cold;</l>
                <l>
-                  <pb n="6" facs="tcp:025807_0012_0FCF21A5550B96A8"/>
+                  <pb n="6" facs="unknown:025807_0012_0FCF21A5550B96A8"/>
 Thou, thou unlike the ſummer crew</l>
                <l>That from my adverſe fortune flew,</l>
                <l>Cam'ſt with melodious voice, to cheer</l>
@@ -355,7 +355,7 @@ Thou, thou unlike the ſummer crew</l>
                <l>With glowing ardours rouſe my ſoul,</l>
                <l>And bid the tides of Paſſion roll.</l>
                <l>
-                  <pb n="7" facs="tcp:025807_0013_0FCF21A9E7EBAE48"/>
+                  <pb n="7" facs="unknown:025807_0013_0FCF21A9E7EBAE48"/>
 But think no longer in diſguiſe</l>
                <l>To ſcreen thy beauty from mine eyes;</l>
                <l>Nor deign a borrow'd name to uſe,</l>
@@ -370,7 +370,7 @@ But think no longer in diſguiſe</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0014_0FCF21AC17BC10A8"/>
+            <pb facs="unknown:025807_0014_0FCF21AC17BC10A8"/>
             <head>TO DELLA CRUSCA.</head>
             <lg>
                <l>THOU bid'ſt!—<hi>"my purple ſlumbers fly!"</hi>
@@ -396,7 +396,7 @@ But think no longer in diſguiſe</l>
                <l>Repeats the quiv'ring beams ſhe gave.</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:025807_0015_0FCF21B0FA47BD20"/>
+               <pb n="9" facs="unknown:025807_0015_0FCF21B0FA47BD20"/>
                <l>Not yet, the pencil ſtrives in vain,</l>
                <l>To wake upon the canvas plain,</l>
                <l>All the ſtrong paſſions of the mind,</l>
@@ -434,7 +434,7 @@ But think no longer in diſguiſe</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0016_0FCF21B20F627618"/>
+            <pb facs="unknown:025807_0016_0FCF21B20F627618"/>
             <head>TO ANNA MATILDA.</head>
             <lg>
                <l>AND art thou then, alas! like me,</l>
@@ -464,7 +464,7 @@ But think no longer in diſguiſe</l>
                   <hi>Majeſtic</hi> WOMAN'S <hi>potent gaze,</hi>
                </l>
                <l>
-                  <pb n="11" facs="tcp:025807_0017_0FCF21B3956B5660"/>
+                  <pb n="11" facs="unknown:025807_0017_0FCF21B3956B5660"/>
 Or left on ſome reſourceleſs ſhore,</l>
                <l>Where never ceaſing billows roar;</l>
                <l>Which teeming clouds, and heavy hail,</l>
@@ -495,7 +495,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Fades to a vapour of the ſky.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:025807_0018_0FCF21B53B3F6778"/>
+               <pb n="12" facs="unknown:025807_0018_0FCF21B53B3F6778"/>
                <l>When gradual evening comes, to hide,</l>
                <l>In ſabling ſhades, CREATION's <hi>pride;</hi>
                </l>
@@ -533,7 +533,7 @@ Or left on ſome reſourceleſs ſhore,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0019_0FCF21B711A230D0"/>
+            <pb facs="unknown:025807_0019_0FCF21B711A230D0"/>
             <head>ELEGY, Written on the PLAIN OF FONTENOY.</head>
             <lg>
                <l>CHILL blows the blaſt, and Twilight's dewy hand</l>
@@ -560,7 +560,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>And Man the murd'rer, met the murd'rer Man.</l>
             </lg>
             <lg>
-               <pb n="14" facs="tcp:025807_0020_0FCF21B9017B12F8"/>
+               <pb n="14" facs="unknown:025807_0020_0FCF21B9017B12F8"/>
                <l>For WAR is MURDER, tho' the voice of Kings</l>
                <l>Has ſtyl'd it Juſtice, ſtyl'd it Glory too!</l>
                <l>Yet from worſt motives, fierce Ambition ſprings,</l>
@@ -598,7 +598,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Seems the Poor Soldier, as the Mighty king!</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:025807_0021_0FCF21BBC7C190B0"/>
+               <pb n="15" facs="unknown:025807_0021_0FCF21BBC7C190B0"/>
                <l>A like I ſhun in labour'd ſtrain to ſhow,</l>
                <l>How BRITAIN more than triumph'd, tho' ſhe fled,</l>
                <l>Where <hi>LOUIS</hi> ſtood, where ſtalk'd the column ſlow;</l>
@@ -635,7 +635,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>And with red luſtre guides my lonely way.</l>
             </lg>
             <lg>
-               <pb n="16" facs="tcp:025807_0022_0FCF21C1E8FACC88"/>
+               <pb n="16" facs="unknown:025807_0022_0FCF21C1E8FACC88"/>
                <l>Then FONTENOY, farewel! Yet much I fear,</l>
                <l>(Wherever chance my courſe compels) to find</l>
                <l>Diſcord and blood—the thrilling ſounds I hear,</l>
@@ -656,7 +656,7 @@ Or left on ſome reſourceleſs ſhore,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0023_0FCF21C4CE1266D8"/>
+            <pb facs="unknown:025807_0023_0FCF21C4CE1266D8"/>
             <head>STANZAS TO DELLA CRUSCA.</head>
             <lg>
                <l>HUSH'D, be each ruder note!—Soft ſilence ſpread,</l>
@@ -677,7 +677,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>He, only knows adroitly thus to trill.</l>
             </lg>
             <lg>
-               <pb n="18" facs="tcp:025807_0024_0FCF21C64D3224B0"/>
+               <pb n="18" facs="unknown:025807_0024_0FCF21C64D3224B0"/>
                <l>Well have I left the Groves, which ſighing wave</l>
                <l>Amidſt November's blaſts their naked arms,</l>
                <l>Whilſt their red leaves fall flutt'ring to their grave,</l>
@@ -714,7 +714,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>And ſhadowy fulchions gleam o'er ſhadowy men.</l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:025807_0025_0FCF21C7CBEE0FD8"/>
+               <pb n="19" facs="unknown:025807_0025_0FCF21C7CBEE0FD8"/>
                <l>Ah, who art thou, who thus with frantic air</l>
                <l>Fly'ſt fearleſs to ſupport that bleeding youth:</l>
                <l>Bind'ſt his deep gaſhes with thy glowing hair,</l>
@@ -751,7 +751,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Whilſt Fathers, Brothers, Lovers, Huſbands die.</l>
             </lg>
             <lg>
-               <pb n="20" facs="tcp:025807_0026_0FCF21C96C82F948"/>
+               <pb n="20" facs="unknown:025807_0026_0FCF21C96C82F948"/>
                <l>Turn from this ſpot, bleſt Bard! thy mental eye;</l>
                <l>To hamlets, cities, empires bend its beam!</l>
                <l>'Twill there ſuch multiplying deaths deſcry,</l>
@@ -787,7 +787,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Or ſink, with ſorrow cank'ring at the heart;</l>
             </lg>
             <lg>
-               <pb n="21" facs="tcp:025807_0027_0FCF21CACFBE22D8"/>
+               <pb n="21" facs="unknown:025807_0027_0FCF21CACFBE22D8"/>
                <l>Theſe, be to common Minds, th' unwiſh'd decree!</l>
                <l>The FIRM ſelect an illneſs more ſublime;</l>
                <l>By languid pains, ſcorn their high ſouls to free,</l>
@@ -802,7 +802,7 @@ Or left on ſome reſourceleſs ſhore,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0028_0FCF21CC48957AB0"/>
+            <pb facs="unknown:025807_0028_0FCF21CC48957AB0"/>
             <head>TO ANNA MATILDA.</head>
             <lg>
                <l>ON the ſea-ſhore with folded arms I ſtood,</l>
@@ -829,7 +829,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Be all the ſolace DELLA CRUSCA knows:</l>
             </lg>
             <lg>
-               <pb n="23" facs="tcp:025807_0029_0FCF21CE1C043DC0"/>
+               <pb n="23" facs="unknown:025807_0029_0FCF21CE1C043DC0"/>
                <l>Yet from MATILDA'S pure celeſtial fire,</l>
                <l>One ruby ſpark ſhall to his gloom be given,</l>
                <l>Lur'd by its light, his fancy may aſpire,</l>
@@ -868,7 +868,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Been ſhrunk, alas! and ſcatter'd in the wind.</l>
             </lg>
             <lg>
-               <pb n="24" facs="tcp:025807_0030_0FCF21D04781D060"/>
+               <pb n="24" facs="unknown:025807_0030_0FCF21D04781D060"/>
                <l>Haply, he had not roam'd for ling'ring years</l>
                <l>On many a rugged Alp, and foreign ſhore;</l>
                <l>He ne'er had known the cauſe of all his tears,</l>
@@ -907,7 +907,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Waft the moiſt fragrance of the weeping roſe.</l>
             </lg>
             <lg>
-               <pb n="25" facs="tcp:025807_0031_0FCF21D2486BA3C0"/>
+               <pb n="25" facs="unknown:025807_0031_0FCF21D2486BA3C0"/>
                <l>O'er that dread ſpot, the melancholy Moon</l>
                <l>Shall pauſe a-while, a ſadder beam to ſhed,</l>
                <l>And ſtarry Night, amidſt her awful noon,</l>
@@ -934,7 +934,7 @@ Or left on ſome reſourceleſs ſhore,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0032_0FCF21D638B960A8"/>
+            <pb facs="unknown:025807_0032_0FCF21D638B960A8"/>
             <head>TO DELLA CRUSCA.</head>
             <lg>
                <l>I HATE the tardy Elegiac lay—</l>
@@ -962,7 +962,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>Scorning the frigid ſquare, which her fine fervour chills.</l>
             </lg>
             <lg>
-               <pb n="27" facs="tcp:025807_0033_0FCF21DA8CC05BC8"/>
+               <pb n="27" facs="unknown:025807_0033_0FCF21DA8CC05BC8"/>
                <l>And in thy verſe meand'ring wild,</l>
                <l>Thou, who art FANCY'S <hi>favourite Child,</hi>
                </l>
@@ -998,7 +998,7 @@ Or left on ſome reſourceleſs ſhore,</l>
                <l>To vulgar <hi>comforts</hi> be thou hence confin'd,</l>
                <l>And the ſhrunk bays be from thy brow untwin'd.</l>
                <l>
-                  <pb n="28" facs="tcp:025807_0034_0FCF21DCD45D5160"/>
+                  <pb n="28" facs="unknown:025807_0034_0FCF21DCD45D5160"/>
 Thy ſtatue torn from Cupid's hallow'd niche</l>
                <l>But in return thou ſhalt be dull, and rich;</l>
                <l>The Muſes hence diſown thy rebel lay—</l>
@@ -1015,7 +1015,7 @@ Thy ſtatue torn from Cupid's hallow'd niche</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0035_0FCF21DE63FE6E88"/>
+            <pb facs="unknown:025807_0035_0FCF21DE63FE6E88"/>
             <head>ODE TO PRUDENCE.</head>
             <lg>
                <l>WHERE didſt thou hide thee, CAUTIOUS POW'R,</l>
@@ -1037,7 +1037,7 @@ Thy ſtatue torn from Cupid's hallow'd niche</l>
                <l>Thy miſerable maxims quaint,</l>
                <l>Were but of ſour Suſpicion born:</l>
                <l>
-                  <pb n="30" facs="tcp:025807_0036_0FCF21E09E663DE8"/>
+                  <pb n="30" facs="unknown:025807_0036_0FCF21E09E663DE8"/>
 "Let ſelfiſh ſouls," I madly cried,</l>
                <l>" Submit to ſuch a coward guide,</l>
                <l>Be't mine to ſeek the ſportive vale,</l>
@@ -1071,7 +1071,7 @@ Thy ſtatue torn from Cupid's hallow'd niche</l>
                <l>Altho' her blue Orbs ſofter ſtream</l>
                <l>Than the clear Moon's enchanting beam;</l>
                <l>
-                  <pb n="31" facs="tcp:025807_0037_0FCF21E20BB9C908"/>
+                  <pb n="31" facs="unknown:025807_0037_0FCF21E20BB9C908"/>
 Tho' her <hi>ſtill varying</hi> charms ariſe,</l>
                <l>As to the haſt'ning Trav'ller's eyes,</l>
                <l>HELVETIA'S ſummer proſpects ſhow:</l>
@@ -1100,7 +1100,7 @@ Tho' her <hi>ſtill varying</hi> charms ariſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0038_0FCF21E41C0270D0"/>
+            <pb facs="unknown:025807_0038_0FCF21E41C0270D0"/>
             <head>ODE TO DEATH.</head>
             <lg>
                <l>THOU, whoſe remorſeleſs rage,</l>
@@ -1122,7 +1122,7 @@ Tho' her <hi>ſtill varying</hi> charms ariſe,</l>
                <l>Thy FIAT ſmote his heart,—he ſunk,—a ſenſeleſs clod!</l>
             </lg>
             <lg>
-               <pb n="33" facs="tcp:025807_0039_0FCF21E6A1A111E0"/>
+               <pb n="33" facs="unknown:025807_0039_0FCF21E6A1A111E0"/>
                <l>"<hi>And art thou great?"</hi>—Mankind replies</l>
                <l>With ſad aſſent of mingling ſighs!</l>
                <l>Sighs, that ſwell the biting gales</l>
@@ -1152,7 +1152,7 @@ Tho' her <hi>ſtill varying</hi> charms ariſe,</l>
                <l>And joy and harmony combine!</l>
                <l>TOUCH BUT THY TALISMAN, and ALL IS THINE!</l>
                <l>
-                  <pb n="34" facs="tcp:025807_0040_0FCF21EAC7577888"/>
+                  <pb n="34" facs="unknown:025807_0040_0FCF21EAC7577888"/>
 Th' inſenſate lovers fix in icy fold,</l>
                <l>And on his throbbing lyre, the Minſtrel's hand is cold!</l>
             </lg>
@@ -1183,7 +1183,7 @@ Th' inſenſate lovers fix in icy fold,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0041_0FCF21EEDEBBD410"/>
+            <pb facs="unknown:025807_0041_0FCF21EEDEBBD410"/>
             <head>ELEGY ON THE THIRTY-FIRST OF DECEMBER, MDCCLXXXVII.</head>
             <lg>
                <l>YES, I will climb yon rough Rock's giddy height,</l>
@@ -1204,7 +1204,7 @@ Th' inſenſate lovers fix in icy fold,</l>
                <l>To throng the caverns of relentleſs Death!</l>
             </lg>
             <lg>
-               <pb n="36" facs="tcp:025807_0042_0FCF21F04AC37288"/>
+               <pb n="36" facs="unknown:025807_0042_0FCF21F04AC37288"/>
                <l>And every tranſitory ſhade is loſt,</l>
                <l>That in its courſe was fondly call'd "TO-DAY!"</l>
                <l>Spring's ſweets are gone! and Summer's flow'ry boaſt!</l>
@@ -1242,7 +1242,7 @@ Th' inſenſate lovers fix in icy fold,</l>
                </l>
             </lg>
             <lg>
-               <pb n="37" facs="tcp:025807_0043_0FCF21F1CF4DD8C0"/>
+               <pb n="37" facs="unknown:025807_0043_0FCF21F1CF4DD8C0"/>
                <l>Fain would I ſeek a-while the ſportive ſhade,</l>
                <l>Ere the ſcene cloſe upon this doubtful ſtate;</l>
                <l>Catch every painted phantom ere it fade,</l>
@@ -1279,7 +1279,7 @@ Th' inſenſate lovers fix in icy fold,</l>
                <l>Then weave her laurels in the Bow'r of Peace!</l>
             </lg>
             <lg>
-               <pb n="38" facs="tcp:025807_0044_0FCF21F3B0869B80"/>
+               <pb n="38" facs="unknown:025807_0044_0FCF21F3B0869B80"/>
                <l>Bleſt be her Sons in hardy valour bold,</l>
                <l>And all who haunt meek Learning's ſacred ſhade;</l>
                <l>Th' aſpiring young; and the repoſing old;</l>
@@ -1296,7 +1296,7 @@ Th' inſenſate lovers fix in icy fold,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0045_0FCF21F70A7E7660"/>
+            <pb facs="unknown:025807_0045_0FCF21F70A7E7660"/>
             <head>INVOCATION TO HORROR.</head>
             <lg>
                <l>FAR be remov'd each painted ſcene!</l>
@@ -1322,7 +1322,7 @@ Th' inſenſate lovers fix in icy fold,</l>
                <l>The <hi>murky church-yard,</hi> and <hi>for ſaken bower,</hi>
                </l>
                <l>
-                  <pb n="40" facs="tcp:025807_0046_0FCF21FB0F0496D8"/>
+                  <pb n="40" facs="unknown:025807_0046_0FCF21FB0F0496D8"/>
 Where 'midſt unwholeſome damps</l>
                <l>The vap'ry gleamy lamps</l>
                <l>Of <hi>ignes fatui,</hi> ſhew the thick-wove night,</l>
@@ -1355,7 +1355,7 @@ Where 'midſt unwholeſome damps</l>
                <l>The ſtranded bark, back to the waves reſign!</l>
             </lg>
             <lg>
-               <pb n="41" facs="tcp:025807_0047_0FCF21FDB140D360"/>
+               <pb n="41" facs="unknown:025807_0047_0FCF21FDB140D360"/>
                <l>Then, whilſt from yonder turbid cloud,</l>
                <l>Thou roll'ſt thy thunders long, and loud,</l>
                <l>And light'nings flaſh upon the deep below,</l>
@@ -1386,7 +1386,7 @@ Where 'midſt unwholeſome damps</l>
                <l>The Angels of his wrath did fly!</l>
             </lg>
             <lg>
-               <pb n="42" facs="tcp:025807_0048_0FCF220236B05208"/>
+               <pb n="42" facs="unknown:025807_0048_0FCF220236B05208"/>
                <l>Then HORROR! thou preſided'ſt o'er the whole,</l>
                <l>And fill'd, and rapt, each ſelf-accuſing ſoul!</l>
                <l>Thou didſt aſcend to guide the burning ſhower;</l>
@@ -1407,7 +1407,7 @@ Where 'midſt unwholeſome damps</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0049_0FCF22031965C520"/>
+            <pb facs="unknown:025807_0049_0FCF22031965C520"/>
             <head>TO ANNA MATILDA.</head>
             <lg>
                <l>TO THEE, a <hi>Stranger</hi> dares addreſs his theme!</l>
@@ -1434,7 +1434,7 @@ Where 'midſt unwholeſome damps</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0050_0FCF22048C3C08C8"/>
+            <pb facs="unknown:025807_0050_0FCF22048C3C08C8"/>
             <head>TO REUBEN.</head>
             <lg>
                <l>'MIDST the proud ſervor of the day,</l>
@@ -1460,7 +1460,7 @@ Where 'midſt unwholeſome damps</l>
                <l>From ſtabs that time had almoſt heal'd?—</l>
                <l>Such, REUBEN, ſuch, the thorn conceal'd.</l>
                <l>
-                  <pb n="45" facs="tcp:025807_0051_0FCF22060AC07100"/>
+                  <pb n="45" facs="unknown:025807_0051_0FCF22060AC07100"/>
 Within your verſes' flow'ry ſpell,</l>
                <l>Which, barb'rous! dares my pen compel.</l>
             </lg>
@@ -1492,7 +1492,7 @@ Within your verſes' flow'ry ſpell,</l>
                <l>And deprecate the doom accurſt,</l>
                <l>Or bid that heart with ſorrow burſt.</l>
                <l>
-                  <pb n="46" facs="tcp:025807_0052_0FCF2207B993C2E8"/>
+                  <pb n="46" facs="unknown:025807_0052_0FCF2207B993C2E8"/>
 Welcome the deadly fiery pain,</l>
                <l>That gentleſt heart-ſtrings moſt will ſtrain—</l>
                <l>MADNESS IS HIS—but 'tis replete</l>
@@ -1524,7 +1524,7 @@ Welcome the deadly fiery pain,</l>
                <l>Allures him to the beechy grove;</l>
                <l>Or when ſome cragg'd groteſque alcove</l>
                <l>
-                  <pb n="47" facs="tcp:025807_0053_0FCF220A0BF084C0"/>
+                  <pb n="47" facs="unknown:025807_0053_0FCF220A0BF084C0"/>
 Sounds in his ear its tinkling rill,</l>
                <l>And tempts him to its moſs-grown ſill;</l>
                <l>
@@ -1555,7 +1555,7 @@ Sounds in his ear its tinkling rill,</l>
                <l>Would'ſt aſk the <hi>joys</hi> of love? Oh! change the pray'r,</l>
                <l>Thou little know'ſt his pow'r, to faſten there!</l>
                <l>
-                  <pb n="48" facs="tcp:025807_0054_0FCF220B51EC39F0"/>
+                  <pb n="48" facs="unknown:025807_0054_0FCF220B51EC39F0"/>
 Let the mean boſom crave its <hi>love's return,</hi>
                </l>
                <l>Thine ſhall with more diſtinguiſh'd ardors burn:</l>
@@ -1569,7 +1569,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0055_0FCF220CC98AEAB8"/>
+            <pb facs="unknown:025807_0055_0FCF220CC98AEAB8"/>
             <head>ODE TO MRS. SIDDONS.</head>
             <lg>
                <l>THEE, <hi>Queen of Pathos,</hi> ſhall my proud Verſe hail,</l>
@@ -1599,7 +1599,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>And finds th' unbidden tear down her hot cheek to ſtray.</l>
             </lg>
             <lg>
-               <pb n="50" facs="tcp:025807_0056_0FCF2211060CE3A0"/>
+               <pb n="50" facs="unknown:025807_0056_0FCF2211060CE3A0"/>
                <l>Lo! at thy voice, from ſolitary cave,</l>
                <l>With hair erect, peeps forth <hi>pale</hi> FEAR,</l>
                <l>Nor will he longer wait to hear,</l>
@@ -1634,7 +1634,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>That ſees his tyrant Moon, and raving runs to woo.</l>
             </lg>
             <lg>
-               <pb n="51" facs="tcp:025807_0057_0FCF22145C374828"/>
+               <pb n="51" facs="unknown:025807_0057_0FCF22145C374828"/>
                <l>Alike the mild, benevolent deſires,</l>
                <l>That wander in the penſive grove,</l>
                <l>Pity, and generous-minded Love,</l>
@@ -1671,7 +1671,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0058_0FCF2216F48217C8"/>
+            <pb facs="unknown:025807_0058_0FCF2216F48217C8"/>
             <head>ODE TO SIMPLICITY. Addreſſed to MRS. WELLS.</head>
             <lg>
                <l>O COME, ye fragrant gales that ſweep</l>
@@ -1693,7 +1693,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                </l>
             </lg>
             <lg>
-               <pb n="53" facs="tcp:025807_0059_0FCF2218F9944BA0"/>
+               <pb n="53" facs="unknown:025807_0059_0FCF2218F9944BA0"/>
                <l>The length'ned ſhades that Evening draws,</l>
                <l>Of calm repoſe the general pauſe,</l>
                <l>The Stream that winds yon meads along,</l>
@@ -1735,7 +1735,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                </l>
             </lg>
             <lg>
-               <pb n="54" facs="tcp:025807_0060_0FCF221A48BD9450"/>
+               <pb n="54" facs="unknown:025807_0060_0FCF221A48BD9450"/>
                <l>So when upon thy well-wrought ſcene,</l>
                <l>The curtain drops its cloſing green,</l>
                <l>We grieve the mirthful hour is paſt,</l>
@@ -1768,7 +1768,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0061_0FCF221BF46A3680"/>
+            <pb facs="unknown:025807_0061_0FCF221BF46A3680"/>
             <head>ODE TO MISS FARREN.</head>
             <lg>
                <l>FROM <hi>her own garden,</hi> BEAUTY choſe,</l>
@@ -1787,7 +1787,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>So ſhall my heart at times forget to grieve.</l>
             </lg>
             <lg>
-               <pb n="56" facs="tcp:025807_0062_0FCF221E05E98108"/>
+               <pb n="56" facs="unknown:025807_0062_0FCF221E05E98108"/>
                <l>And often will I loit'ring ſtay,</l>
                <l>Till the dark mountains veil the Day,</l>
                <l>While <hi>thus</hi> delicious Fancy cheers—</l>
@@ -1820,7 +1820,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>And hear thy voice, omnipotent to pleaſe!</l>
             </lg>
             <lg>
-               <pb n="57" facs="tcp:025807_0063_0FCF2223EA05D7D0"/>
+               <pb n="57" facs="unknown:025807_0063_0FCF2223EA05D7D0"/>
                <l>With thee to pace the mountain's ſide,</l>
                <l>Or mark the ruſhy riv'let glide,</l>
                <l>That murm'ring rolls a ſcanty ſtream;</l>
@@ -1849,7 +1849,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0064_0FCF2226AB8C3180"/>
+            <pb facs="unknown:025807_0064_0FCF2226AB8C3180"/>
             <head>THE SLAVES. AN ELEGY.</head>
             <lg>
                <l>IF late I paus'd upon the Twilight plain</l>
@@ -1870,7 +1870,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>To feed the luxury of BRITISH PRIDE!</l>
             </lg>
             <lg>
-               <pb n="59" facs="tcp:025807_0065_0FCF2227F66110F8"/>
+               <pb n="59" facs="unknown:025807_0065_0FCF2227F66110F8"/>
                <l>E'en at this moment, on the burning gale</l>
                <l>Floats the weak wailing of the female tongue;</l>
                <l>And can that Sex's ſoftneſs nought avail—</l>
@@ -1903,7 +1903,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                </l>
             </lg>
             <lg>
-               <pb n="60" facs="tcp:025807_0066_0FCF222A0683C538"/>
+               <pb n="60" facs="unknown:025807_0066_0FCF222A0683C538"/>
                <l>And there are <hi>Men,</hi> with ſhameleſs front have ſaid,</l>
                <l>
                   <hi>That Nature form'd the</hi> NEGROES <hi>for Diſgrace;</hi>
@@ -1939,7 +1939,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>Can he believe the tongue that ſpeaks of GOD?</l>
             </lg>
             <lg>
-               <pb n="61" facs="tcp:025807_0067_0FCF222FDE513718"/>
+               <pb n="61" facs="unknown:025807_0067_0FCF222FDE513718"/>
                <l>For when he ſees the Female of his Heart,</l>
                <l>And his lov'd daughters torn by Luſt away,</l>
                <l>His ſons, the poor inheritors of ſmart—</l>
@@ -1971,7 +1971,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>And in a throb of ecſtacy expire.</l>
             </lg>
             <lg>
-               <pb n="62" facs="tcp:025807_0068_0FCF22335A283A60"/>
+               <pb n="62" facs="unknown:025807_0068_0FCF22335A283A60"/>
                <l>Then ſhall proud ALBION'S CROWN, where Laurels twine,</l>
                <l>Torn from the boſom of the raging ſea,</l>
                <l>Boaſt 'midſt the glorious leaves, a Gem divine,</l>
@@ -1982,7 +1982,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0069_0FCF2235490255E0"/>
+            <pb facs="unknown:025807_0069_0FCF2235490255E0"/>
             <head>MONODY. Addreſſed to MR. T—</head>
             <lg>
                <l>IF ever for fictitious grief</l>
@@ -2001,7 +2001,7 @@ Let the mean boſom crave its <hi>love's return,</hi>
                <l>Or, when, at cloſe of day,</l>
                <l>To the lone vale I took my way,</l>
                <l>
-                  <pb n="64" facs="tcp:025807_0070_0FCF223785E4CDE8"/>
+                  <pb n="64" facs="unknown:025807_0070_0FCF223785E4CDE8"/>
 The <hi>ſad vibration</hi> of <hi>faint</hi> ECHO'S <hi>breath,</hi>
                </l>
                <l>Brought to my heart the dirge of Death.</l>
@@ -2035,7 +2035,7 @@ The <hi>ſad vibration</hi> of <hi>faint</hi> ECHO'S <hi>breath,</hi>
                <l>Think, SHE <hi>thou lov'ſt,</hi> has left a World,</l>
                <l>Where jarring elements are hurl'd,</l>
                <l>
-                  <pb n="65" facs="tcp:025807_0071_0FCF223D1EFBB3A0"/>
+                  <pb n="65" facs="unknown:025807_0071_0FCF223D1EFBB3A0"/>
 And where contending atoms roar,</l>
                <l>To join, 'midſt endleſs joy, th' adoring Seraph's ſtrain!</l>
                <l>Yes, <hi>ſhe was mild and lovely as the ſtar</hi>
@@ -2067,7 +2067,7 @@ And where contending atoms roar,</l>
                <l>Why ſhould we fondly brood on care,</l>
                <l>Ah! why devote us to deſpair!</l>
                <l>
-                  <pb n="66" facs="tcp:025807_0072_0FCF223E517A6D20"/>
+                  <pb n="66" facs="unknown:025807_0072_0FCF223E517A6D20"/>
 But time aſſiduous loves to urge</l>
                <l>Our footſteps to his utmoſt verge,</l>
                <l>Becauſe that there a rapt'rous ſcene appears,</l>
@@ -2088,7 +2088,7 @@ But time aſſiduous loves to urge</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0073_0FCF223FC6EAA140"/>
+            <pb facs="unknown:025807_0073_0FCF223FC6EAA140"/>
             <head>ODE TO INDIFFERENCE.</head>
             <lg>
                <l>OH Nymph, long ſought of placid mien,</l>
@@ -2110,7 +2110,7 @@ But time aſſiduous loves to urge</l>
                <l>Have I not watch'd thy lightſome dance</l>
                <l>When Evening's ſoften'd glows advance?</l>
                <l>
-                  <pb n="68" facs="tcp:025807_0074_0FCF2241780E43F8"/>
+                  <pb n="68" facs="unknown:025807_0074_0FCF2241780E43F8"/>
 Dear Goddeſs yes! and whilſt the Ruſtic's mirth</l>
                <l>Proclaims the hour which gives wild gambols birth,</l>
                <l>Supine, I've found thee in the elm row's ſhade,</l>
@@ -2142,7 +2142,7 @@ Dear Goddeſs yes! and whilſt the Ruſtic's mirth</l>
                <l>Her muſic, colours, odours, all are thine,</l>
                <l>To thee her months their richeſt gifts conſign;</l>
                <l>
-                  <pb n="69" facs="tcp:025807_0075_0FCF2243D28BC1C8"/>
+                  <pb n="69" facs="unknown:025807_0075_0FCF2243D28BC1C8"/>
 To thee the morn is bright, and ſweet the ray</l>
                <l>That marks the progreſs of the ſinking day;</l>
                <l>Each change is grateful to thy ſoul,</l>
@@ -2175,7 +2175,7 @@ To thee the morn is bright, and ſweet the ray</l>
                <l>Oft rous'd my torpid ſenſe to living woe,</l>
                <l>And bid chill anguiſh to my boſom grow.</l>
                <l>
-                  <pb n="70" facs="tcp:025807_0076_0FCF22450905A1A0"/>
+                  <pb n="70" facs="unknown:025807_0076_0FCF22450905A1A0"/>
 She ſeals her prey!—in vain the Spring</l>
                <l>Wakes Rapture, thro' her groves to ſing;</l>
                <l>The roſeate Morn's hygean bloom,</l>
@@ -2205,7 +2205,7 @@ She ſeals her prey!—in vain the Spring</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0077_0FCF224686DDCC18"/>
+            <pb facs="unknown:025807_0077_0FCF224686DDCC18"/>
             <head>ODE TO ANNA MATILDA.</head>
             <lg>
                <l>O CEASE MATILDA! Ceaſe the ſtrain</l>
@@ -2229,7 +2229,7 @@ She ſeals her prey!—in vain the Spring</l>
                <l>Till not a tear-drop wets the eye;</l>
                <l>Nor throbs the breaſt for Sorrow's ſigh.</l>
                <l>
-                  <pb n="72" facs="tcp:025807_0078_0FCF224DA1654548"/>
+                  <pb n="72" facs="unknown:025807_0078_0FCF224DA1654548"/>
 O may I never find relief,</l>
                <l>But PERISH, in the PANG of GRIEF!</l>
             </lg>
@@ -2261,7 +2261,7 @@ O may I never find relief,</l>
                <l>That ſtrikes the ſoul, with truth ſublime</l>
                <l>As 'twere the whiſp'ring TONGUE of TIME;</l>
                <l>
-                  <pb n="73" facs="tcp:025807_0079_0FCF224FBA4F1FC0"/>
+                  <pb n="73" facs="unknown:025807_0079_0FCF224FBA4F1FC0"/>
 For thus our ſhort Life's ebbing day</l>
                <l>Murmurs awhile, and haſtes away!</l>
                <l>Or let us ſeek the mould'ring wall</l>
@@ -2292,7 +2292,7 @@ For thus our ſhort Life's ebbing day</l>
                <l>Till back it haſtens whence 'twas brought,</l>
                <l>Beyond the boundaries of thought!</l>
                <l>
-                  <pb n="74" facs="tcp:025807_0080_0FCEEFDB225D5D00"/>
+                  <pb n="74" facs="unknown:025807_0080_0FCEEFDB225D5D00"/>
 Let not the ſtudious Seer reply,</l>
                <l>
                   <hi>"Attraction regulates the Sky,</hi>
@@ -2330,7 +2330,7 @@ Let not the ſtudious Seer reply,</l>
                <l>Gives to the Roſe, ſuch balmy ſweet,</l>
                <l>Or fills the golden ear of Wheat,</l>
                <l>
-                  <pb n="75" facs="tcp:025807_0081_0FCF2253CFB8BC08"/>
+                  <pb n="75" facs="unknown:025807_0081_0FCF2253CFB8BC08"/>
 Paints the ripe Peach with velvet bloom,</l>
                <l>Or weaves the thick Wood's mingling gloom—</l>
                <l>YET we can wander in the bow'r;</l>
@@ -2361,7 +2361,7 @@ Paints the ripe Peach with velvet bloom,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0082_0FCF2254E0D16DA0"/>
+            <pb facs="unknown:025807_0082_0FCF2254E0D16DA0"/>
             <head>ODE TO DELLA CRUSCA.</head>
             <lg>
                <l>O THOU!</l>
@@ -2382,7 +2382,7 @@ Paints the ripe Peach with velvet bloom,</l>
                <l>Its wondrous beauty, and its art</l>
                <l>Can only <hi>touch,</hi> not <hi>change,</hi> my heart.</l>
                <l>
-                  <pb n="77" facs="tcp:025807_0083_0FCF2256540847D8"/>
+                  <pb n="77" facs="unknown:025807_0083_0FCF2256540847D8"/>
 So Heaven-ſent light'ning <hi>powerleſs</hi> plays,</l>
                <l>And wanton, throws its purple rays;</l>
                <l>It leaps thro' Night's ſcarce pervious gloom</l>
@@ -2415,7 +2415,7 @@ So Heaven-ſent light'ning <hi>powerleſs</hi> plays,</l>
                <l>No! bleſt by <hi>Thee,</hi> the ſoul expands,</l>
                <l>And darts o'er new-created lands;</l>
                <l>
-                  <pb n="78" facs="tcp:025807_0084_0FCF2257F031A968"/>
+                  <pb n="78" facs="unknown:025807_0084_0FCF2257F031A968"/>
 Springs from the confines of the earth</l>
                <l>To where new ſyſtems ſtruggle into birth;</l>
                <l>The germ of future Worlds beholds,</l>
@@ -2435,7 +2435,7 @@ Springs from the confines of the earth</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0085_0FCF2259D8EDDDD0"/>
+            <pb facs="unknown:025807_0085_0FCF2259D8EDDDD0"/>
             <head>TO ANNA MATILDA.</head>
             <lg>
                <l>NOR will I more of Fate complain;</l>
@@ -2459,7 +2459,7 @@ Springs from the confines of the earth</l>
                <l>Where, doubtful of the coming day,</l>
                <l>Each drooping flow'ret ſheds tranſlucent tears.</l>
                <l>
-                  <pb n="80" facs="tcp:025807_0086_0FCF225CC1CB32B0"/>
+                  <pb n="80" facs="unknown:025807_0086_0FCF225CC1CB32B0"/>
 Ah! tell me, tell me where,</l>
                <l>For thou ſhalt find me <hi>there,</hi>
                </l>
@@ -2494,7 +2494,7 @@ Ah! tell me, tell me where,</l>
                <l>Warn'd by his Fate, 'twere ſurely well,</l>
                <l>To ſhun the faſcinating ſpell;</l>
                <l>
-                  <pb n="81" facs="tcp:025807_0087_0FCF225E85F4CF90"/>
+                  <pb n="81" facs="unknown:025807_0087_0FCF225E85F4CF90"/>
 Nor ſtill, preſumptuous, dare to fling</l>
                <l>My rude hand o'er the ſounding ſtring;</l>
                <l>As though I fondly would aſpire,</l>
@@ -2514,7 +2514,7 @@ Nor ſtill, preſumptuous, dare to fling</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0088_0FCF22648D54D780"/>
+            <pb facs="unknown:025807_0088_0FCF22648D54D780"/>
             <epigraph>
                <q>
                   <l>
@@ -2554,7 +2554,7 @@ Nor ſtill, preſumptuous, dare to fling</l>
                <l>Whilſt PASSION narrows up the heart,</l>
                <l>TASTE can no ray of bliſs impart,</l>
                <l>
-                  <pb n="83" facs="tcp:025807_0089_0FCF22672DC1F188"/>
+                  <pb n="83" facs="unknown:025807_0089_0FCF22672DC1F188"/>
 One ſtrong idea graſps the mind,</l>
                <l>Extends itſelf thro' all the ſoul,</l>
                <l>Thro' ev'ry vein its furies roll,</l>
@@ -2587,7 +2587,7 @@ One ſtrong idea graſps the mind,</l>
                   <hi>Watch</hi> CHARACTER where e'er it runs;</l>
                <l>Drink newer air, ſee fiercer ſuns:</l>
                <l>
-                  <pb n="84" facs="tcp:025807_0090_0FCF22687AD21330"/>
+                  <pb n="84" facs="unknown:025807_0090_0FCF22687AD21330"/>
 Seek the bland realms where firſt the Morn</l>
                <l>Pours dawn-light from her beamy horn;</l>
                <l>Pours ſcent and colours o'er the vale,</l>
@@ -2619,7 +2619,7 @@ Seek the bland realms where firſt the Morn</l>
                <l>Here ſhalt thou ſeek th' immortal Dome</l>
                <l>Where <hi>Pleaſure</hi> triumph'd over ROME;</l>
                <l>
-                  <pb n="85" facs="tcp:025807_0091_0FCF2269C7C9DDB0"/>
+                  <pb n="85" facs="unknown:025807_0091_0FCF2269C7C9DDB0"/>
 And tread where CLEOPATRA trod,</l>
                <l>And moiſten with thy tear the ſod</l>
                <l>Where Taſte and Love their banners wav'd,</l>
@@ -2652,7 +2652,7 @@ And tread where CLEOPATRA trod,</l>
                <l>OFFERINGS to the love-loſt pair!</l>
             </lg>
             <lg>
-               <pb n="86" facs="tcp:025807_0092_0FCF226CDAEA5D98"/>
+               <pb n="86" facs="unknown:025807_0092_0FCF226CDAEA5D98"/>
                <l>Theſe duties paid, with ling'ring look,</l>
                <l>With heart by ſilent Sorrow ſhook,</l>
                <l>The marbled deſert next explore</l>
@@ -2681,7 +2681,7 @@ And tread where CLEOPATRA trod,</l>
                <l>The dulcet groves, burſt with rich notes,</l>
                <l>Caught by a thouſand trembling throats,</l>
                <l>
-                  <pb n="87" facs="tcp:025807_0093_0FCF226E45CDF258"/>
+                  <pb n="87" facs="unknown:025807_0093_0FCF226E45CDF258"/>
 The wavey rivers as they fly—</l>
                <l>Their ſoft embroder'd bounds between,</l>
                <l>Whoſe glowing tints be-gem the green,</l>
@@ -2710,7 +2710,7 @@ The wavey rivers as they fly—</l>
                <l>And bear to mightier ſhores the Name!</l>
             </lg>
             <lg>
-               <pb n="88" facs="tcp:025807_0094_0FCF234728D71FB8"/>
+               <pb n="88" facs="unknown:025807_0094_0FCF234728D71FB8"/>
                <l>Swiftly, my DELLA CRUSCA, turn,</l>
                <l>To where the Medicean Urn,</l>
                <l>The once proud City hallows ſtill,</l>
@@ -2728,7 +2728,7 @@ The wavey rivers as they fly—</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0095_0FCEEFE4E35AEF10"/>
+            <pb facs="unknown:025807_0095_0FCEEFE4E35AEF10"/>
             <head>TO ANNA MATILDA.</head>
             <epigraph>
                <q>
@@ -2753,7 +2753,7 @@ The wavey rivers as they fly—</l>
                <l>And down thy neck had ſweetly roll'd</l>
                <l>Luxuriant locks of mazy gold.</l>
                <l>
-                  <pb n="90" facs="tcp:025807_0096_0FCEEFE85B659C60"/>
+                  <pb n="90" facs="unknown:025807_0096_0FCEEFE85B659C60"/>
 Yes I had hopes, at laſt to preſs,</l>
                <l>And lure thee to the chaſte careſs:</l>
                <l>Catch from thy breath the quiv'ring ſigh,</l>
@@ -2786,7 +2786,7 @@ Yes I had hopes, at laſt to preſs,</l>
                <l>Once more ROME'S <hi>Via Sacra</hi> tread,</l>
                <l>And ponder on the mighty dead.</l>
                <l>
-                  <pb n="91" facs="tcp:025807_0097_0FCF2272B1765E68"/>
+                  <pb n="91" facs="unknown:025807_0097_0FCF2272B1765E68"/>
 More Eaſtward then direct my way,</l>
                <l>To thirſty <hi>Egypt's</hi> deſerts ſtray,</l>
                <l>Fix in wonder, to behold</l>
@@ -2816,7 +2816,7 @@ More Eaſtward then direct my way,</l>
                <l>Loud ſhout the Mariners, the white ſails ſwell—</l>
                <l>ANNA MATILDA! fare thee, fare thee well!</l>
                <l>
-                  <pb n="92" facs="tcp:025807_0098_0FCF2274578ED2A0"/>
+                  <pb n="92" facs="unknown:025807_0098_0FCF2274578ED2A0"/>
 Farewel whoe'er thou art, and mayſt thou find</l>
                <l>Health and repoſe, and laſting peace of mind;</l>
                <l>Still pour the various Verſe with fancy clear,</l>
@@ -2848,7 +2848,7 @@ Farewel whoe'er thou art, and mayſt thou find</l>
                   <hi>Sweet</hi> POETRY! my earlieſt, falſeſt Friend,</l>
                <l>Here ſhall my frantic adoration end,</l>
                <l>
-                  <pb n="93" facs="tcp:025807_0099_0FCF2275CE4F6038"/>
+                  <pb n="93" facs="unknown:025807_0099_0FCF2275CE4F6038"/>
 Take back the ſimple flute thy treach'ry gave,</l>
                <l>Take back, and plunge it in Oblivion's wave,</l>
                <l>So ſhall its ſad notes hence no malice raiſe—</l>
@@ -2875,7 +2875,7 @@ Take back the ſimple flute thy treach'ry gave,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0100_0FCF22797261C808"/>
+            <pb facs="unknown:025807_0100_0FCF22797261C808"/>
             <head>TO DELLA CRUSCA.</head>
             <lg>
                <l>OH ſtay, oh ſtay! thy raſh ſpeed check,</l>
@@ -2896,7 +2896,7 @@ Take back the ſimple flute thy treach'ry gave,</l>
                <l>Which bears the Genius of the GOD OF DAY!</l>
             </lg>
             <lg>
-               <pb n="95" facs="tcp:025807_0101_0FCF227CDB6A0548"/>
+               <pb n="95" facs="unknown:025807_0101_0FCF227CDB6A0548"/>
                <l>And now, MATILDA, bind thy lyre</l>
                <l>With cypreſs wreathes! the lambent fire</l>
                <l>Thou kindleſt at his fervid rays</l>
@@ -2929,7 +2929,7 @@ Take back the ſimple flute thy treach'ry gave,</l>
                <l>Thou'ſt ſkim th' Egean's brilliant tide,</l>
                <l>I, o'er the Britiſh channel glide,</l>
                <l>
-                  <pb n="96" facs="tcp:025807_0102_0FCF227F4EA724F8"/>
+                  <pb n="96" facs="unknown:025807_0102_0FCF227F4EA724F8"/>
                   <hi>Thou,</hi> all enthuſiaſt! fondly trace</l>
                <l>The Iſle where PHAON'S beauteous face</l>
                <l>Gave birth to SAPPHO'S glorious art—</l>
@@ -2964,7 +2964,7 @@ Take back the ſimple flute thy treach'ry gave,</l>
                <l>
                   <hi>Here</hi> in ſoft red imbue the ſcene;</l>
                <l>
-                  <pb n="97" facs="tcp:025807_0103_0FCF228047A974D0"/>
+                  <pb n="97" facs="unknown:025807_0103_0FCF228047A974D0"/>
 Then loſe themſelves by growing bright,</l>
                <l>Till ſwallow'd up in one vaſt flood of light—</l>
                <l>Thus ſhall I ſay, HE ſaw her rays,</l>
@@ -2998,7 +2998,7 @@ Then loſe themſelves by growing bright,</l>
                <l>Like them my Muſe pines faſt away,</l>
                <l>And this her laſt, her cloſing day.</l>
                <l>
-                  <pb n="98" facs="tcp:025807_0104_0FCF2281CD3EEE20"/>
+                  <pb n="98" facs="unknown:025807_0104_0FCF2281CD3EEE20"/>
 When one bleſt word her lips hath ſeal'd,</l>
                <l>In laſting ſilence ſhe'll be veil'd.</l>
                <l>Expiring, ſtill her note's the ſame,</l>
@@ -3017,7 +3017,7 @@ When one bleſt word her lips hath ſeal'd,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0105_0FCF2283B931B558"/>
+            <pb facs="unknown:025807_0105_0FCF2283B931B558"/>
             <head>A TALE FOR JEALOUSY.</head>
             <head type="sub">A Recent Event in CATALONIA.</head>
             <lg>
@@ -3041,7 +3041,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>But ſlumber ſweet he knows no more!</l>
             </lg>
             <lg>
-               <pb n="100" facs="tcp:025807_0106_0FCF2286CC60C708"/>
+               <pb n="100" facs="unknown:025807_0106_0FCF2286CC60C708"/>
                <l>His rous'd domeſtics ſtrait obey</l>
                <l>The ſignal of their Lord, unlov'd;</l>
                <l>Their torches flaſh a ſecond day,</l>
@@ -3073,7 +3073,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>I faint with eager, ſtrong deſire.</l>
             </lg>
             <lg>
-               <pb n="101" facs="tcp:025807_0107_0FCF228AF790E638"/>
+               <pb n="101" facs="unknown:025807_0107_0FCF228AF790E638"/>
                <l>Oft did I try her ſoul to melt,</l>
                <l>But ign'rant ſhe of Cupid's pow'r—</l>
                <l>His ecſtacies ſhe never felt—</l>
@@ -3104,7 +3104,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>Is prized beyond IND'S brighteſt ſtone.</l>
             </lg>
             <lg>
-               <pb n="102" facs="tcp:025807_0108_0FCF229016A51A98"/>
+               <pb n="102" facs="unknown:025807_0108_0FCF229016A51A98"/>
                <l>But go, and to her parents bear</l>
                <l>Thy Lord's deſigns—his hopes unfold;</l>
                <l>Plead with due force his meaning fair,</l>
@@ -3136,7 +3136,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>She learn'd to bear, and then approve.</l>
             </lg>
             <lg>
-               <pb n="103" facs="tcp:025807_0109_0FCF22918BE97428"/>
+               <pb n="103" facs="unknown:025807_0109_0FCF22918BE97428"/>
                <l>The Sire attends his darling child,</l>
                <l>For ſo <hi>Alphonſo'</hi>s pride allows;</l>
                <l>And with the tranſport almoſt wild,</l>
@@ -3167,7 +3167,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>And from her nod receive their fate.</l>
             </lg>
             <lg>
-               <pb n="104" facs="tcp:025807_0110_0FCF2293E2EF8310"/>
+               <pb n="104" facs="unknown:025807_0110_0FCF2293E2EF8310"/>
                <l>Succinct the time in which ſuch joy</l>
                <l>Around his aged heart might play;</l>
                <l>Bitter, oh! bitter the alloy!</l>
@@ -3200,7 +3200,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>Nor hails the ſoft approach of Night.</l>
             </lg>
             <lg>
-               <pb n="105" facs="tcp:025807_0111_0FCF22972EA2E378"/>
+               <pb n="105" facs="unknown:025807_0111_0FCF22972EA2E378"/>
                <l>Her only ſolace was to roam</l>
                <l>'Midſt the deep wood's emboſom'd calm,</l>
                <l>Where diſtant from her gaudy home</l>
@@ -3231,7 +3231,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>Upon th' eſcaping river launch.</l>
             </lg>
             <lg>
-               <pb n="106" facs="tcp:025807_0112_0FCF22984C426998"/>
+               <pb n="106" facs="unknown:025807_0112_0FCF22984C426998"/>
                <l>Thus was ſhe one bright eve employ'd,</l>
                <l>Whilſt carols ſad her ſweet voice ſung;</l>
                <l>Evening's own bird her note enjoy'd—</l>
@@ -3262,7 +3262,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>Where Engliſh heroes oft ſhall bleed.</l>
             </lg>
             <lg>
-               <pb n="107" facs="tcp:025807_0113_0FCF229A24219E58"/>
+               <pb n="107" facs="unknown:025807_0113_0FCF229A24219E58"/>
                <l>And there his blood did <hi>Guſman</hi> ſhed</l>
                <l>Amongſt the boldeſt ever found,</l>
                <l>By ſacred thirſt of honour led—</l>
@@ -3293,7 +3293,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>They each were warn'd by cloſing day.</l>
             </lg>
             <lg>
-               <pb n="108" facs="tcp:025807_0114_0FCF229FAEE53020"/>
+               <pb n="108" facs="unknown:025807_0114_0FCF229FAEE53020"/>
                <l>Adieu, my <hi>Guſman, Julia</hi> cries!</l>
                <l>Yet let me ſee thee once again;</l>
                <l>To-morrow bleſs thy ſiſter's eyes,</l>
@@ -3325,7 +3325,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>Shot thro' the wood a <hi>ſhiver'd</hi> gleam.</l>
             </lg>
             <lg>
-               <pb n="109" facs="tcp:025807_0115_0FCF22A2F2B88EE0"/>
+               <pb n="109" facs="unknown:025807_0115_0FCF22A2F2B88EE0"/>
                <l>Mark'd how each ſound ſtole ſoft away,</l>
                <l>As gliding off to ſhores more bright;</l>
                <l>Bribed by the gaudy tumid day,</l>
@@ -3357,7 +3357,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>The ſofteſt dreams their phantoms ſteal.</l>
             </lg>
             <lg>
-               <pb n="110" facs="tcp:025807_0116_0FCF22A5B147E3F8"/>
+               <pb n="110" facs="unknown:025807_0116_0FCF22A5B147E3F8"/>
                <l>At morning's dawn, her Lord commands,</l>
                <l>Her placid ſlumbers muſt be broke;</l>
                <l>He graſp'd in his her trembling hands,</l>
@@ -3388,7 +3388,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>Bade ruſh the blood, with life yet warm.</l>
             </lg>
             <lg>
-               <pb n="111" facs="tcp:025807_0117_0FCF22A759D21B80"/>
+               <pb n="111" facs="unknown:025807_0117_0FCF22A759D21B80"/>
                <l>She <hi>ſaw</hi>—but oh! ſhe ſpoke no more!</l>
                <l>The agony too fierce to bear;</l>
                <l>Groaning, ſhe ſunk upon the floor,</l>
@@ -3421,7 +3421,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                <l>Each ſeeks its God—a murder'd Saint!</l>
             </lg>
             <lg>
-               <pb n="112" facs="tcp:025807_0118_0FCF22A8D998D370"/>
+               <pb n="112" facs="unknown:025807_0118_0FCF22A8D998D370"/>
                <l>There, tyrant, lie! and let the fangs</l>
                <l>Of deep remorſe thy boſom tear!</l>
                <l>Each wak'ning morn awake new pangs—</l>
@@ -3432,13 +3432,13 @@ When one bleſt word her lips hath ſeal'd,</l>
             </closer>
          </div>
          <div type="half_title">
-            <pb facs="tcp:025807_0119_0FCF22AA65A35870"/>
+            <pb facs="unknown:025807_0119_0FCF22AA65A35870"/>
             <p>
                <hi>AMBITIOUS VENGEANCE; A TRAGIC-DRAMA.</hi> IN THREE ACTS. BY <hi>DELLA CRUSCA.</hi>
             </p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:025807_0120_0FCF22ABDB3DDC98"/>
+            <pb facs="unknown:025807_0120_0FCF22ABDB3DDC98"/>
             <head>CHARACTERS.</head>
             <list>
                <label>CLOTILDA,</label>
@@ -3478,7 +3478,7 @@ When one bleſt word her lips hath ſeal'd,</l>
             </p>
          </div>
          <div type="play">
-            <pb facs="tcp:025807_0121_0FCF22AEF5002168"/>
+            <pb facs="unknown:025807_0121_0FCF22AEF5002168"/>
             <head>AMBITIOUS VENGEANCE; A TRAGIC-DRAMA.<note n="*" place="bottom">This Tragic-Drama was written prior to any of the other Poems.</note>
             </head>
             <div n="1" type="act">
@@ -3502,7 +3502,7 @@ When one bleſt word her lips hath ſeal'd,</l>
                         <l>But ſtill Thereſa claims her brother's care,</l>
                         <l>Yes, I require thy counſel, to direct</l>
                         <l>
-                           <pb n="116" facs="tcp:025807_0122_0FCF22B3E97A1A60"/>
+                           <pb n="116" facs="unknown:025807_0122_0FCF22B3E97A1A60"/>
 My maiden weakneſs; it is thou muſt curb</l>
                         <l>The womaniſh ſpirit in me, teach me how</l>
                         <l>To govern wiſely, ſteadily, and juſtly:</l>
@@ -3546,7 +3546,7 @@ My maiden weakneſs; it is thou muſt curb</l>
                      <lg>
                         <l>O let no thought of me impede thy bliſs,</l>
                         <l>
-                           <pb n="117" facs="tcp:025807_0123_0FCF22B75B0B4B48"/>
+                           <pb n="117" facs="unknown:025807_0123_0FCF22B75B0B4B48"/>
 For I am unambitious, and require</l>
                         <l>But eaſe, and freedom, with ſociety;</l>
                         <l>And be aſſured my wiſhes were complete</l>
@@ -3602,7 +3602,7 @@ For I am unambitious, and require</l>
                         <l>To fill the coffers of pale avarice,</l>
                         <l>Or deal out favours with ſo rich a hand</l>
                         <l>
-                           <pb n="118" facs="tcp:025807_0124_0FCF22B88896D270"/>
+                           <pb n="118" facs="unknown:025807_0124_0FCF22B88896D270"/>
 To equal each man's wiſhes; for alas!</l>
                         <l>The ſovereign pow'r is bounded, whereas hope</l>
                         <l>Is without bounds, and each ſucceeding day</l>
@@ -3653,7 +3653,7 @@ To equal each man's wiſhes; for alas!</l>
                         <l>Would neither injure, trouble, nor offend.</l>
                         <l>Born in ſome humble cottage, I had known</l>
                         <l>
-                           <pb n="119" facs="tcp:025807_0125_0FCF22BAD9064000"/>
+                           <pb n="119" facs="unknown:025807_0125_0FCF22BAD9064000"/>
 No wild commotion of exalted care,</l>
                         <l>But cheerful hied me forth at early morn,</l>
                         <l>Tho' the bleak north-wind ſwept the mountain's ſide;</l>
@@ -3691,7 +3691,7 @@ No wild commotion of exalted care,</l>
                         <l>To gain by mimic affability:</l>
                         <l>The common error of our princely tribe!</l>
                         <l>
-                           <pb n="120" facs="tcp:025807_0126_0FCF22BC486E10D8"/>
+                           <pb n="120" facs="unknown:025807_0126_0FCF22BC486E10D8"/>
 Unmatch'd in virtue, ſenſe, and dignity,</l>
                         <l>And ev'ry charm of youthful manlineſs.</l>
                         <l>If aught that's mortal can approach perfection,</l>
@@ -3734,7 +3734,7 @@ Unmatch'd in virtue, ſenſe, and dignity,</l>
                         <l>To him, who, ſhould caprice incline, may veil</l>
                         <l>In clouds and darkneſs all my ſtarry hopes,</l>
                         <l>
-                           <pb n="121" facs="tcp:025807_0127_0FCF22BDE7CB39B0"/>
+                           <pb n="121" facs="unknown:025807_0127_0FCF22BDE7CB39B0"/>
 And, ſcorning the condition of my baſeneſs,</l>
                         <l>Breed a dire tempeſt o'er my hated head.</l>
                         <l>I muſt a ſpeedy vengeance execute.</l>
@@ -3777,7 +3777,7 @@ And, ſcorning the condition of my baſeneſs,</l>
                         <l>Thou'rt abſent e'en amidſt ſociety;</l>
                         <l>As tho' the buſy lab'ring of thy breaſt,</l>
                         <l>
-                           <pb n="122" facs="tcp:025807_0128_0FCF22C57B1BD600"/>
+                           <pb n="122" facs="unknown:025807_0128_0FCF22C57B1BD600"/>
 Taught thee to ſcorn attentive ceremony.</l>
                         <l>O, pr'ythee diſſipate the low'ring gloom</l>
                         <l>That hangs oppreſſive on thy penſive ſpirits,</l>
@@ -3816,7 +3816,7 @@ Taught thee to ſcorn attentive ceremony.</l>
                         <l>Alone in deep reflection; the hour ſuits well.—</l>
                         <l>Madam! if wretchedneſs may plead excuſe</l>
                         <l>
-                           <pb n="123" facs="tcp:025807_0129_0FCF22C799BD14B0"/>
+                           <pb n="123" facs="unknown:025807_0129_0FCF22C799BD14B0"/>
 For this abrupt intruſion, I ſurely</l>
                         <l>May be forgiven, for alas! my woes,</l>
                         <l>Are ſeldom parallel'd. Hither I come</l>
@@ -3868,7 +3868,7 @@ For this abrupt intruſion, I ſurely</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="124" facs="tcp:025807_0130_0FCF22C9113E1FA0"/>
+                     <pb n="124" facs="unknown:025807_0130_0FCF22C9113E1FA0"/>
                      <speaker>Clot.</speaker>
                      <stage>[Aſide.]</stage>
                      <lg>
@@ -3920,7 +3920,7 @@ For this abrupt intruſion, I ſurely</l>
                         <l>Thou with a coward's patience doſt prefer</l>
                         <l>To bear thy wrongs, than manfully avenge them.</l>
                         <l>
-                           <pb n="125" facs="tcp:025807_0131_0FCF22CE5B1A1858"/>
+                           <pb n="125" facs="unknown:025807_0131_0FCF22CE5B1A1858"/>
 O canſt thou, nurs'd in wealth, and train'd to glory,</l>
                         <l>Accuſtom'd to behold a cringing crowd</l>
                         <l>Court thy protecting ſmile, and bend before thee,</l>
@@ -3962,7 +3962,7 @@ O canſt thou, nurs'd in wealth, and train'd to glory,</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="126" facs="tcp:025807_0132_0FCF22CFC5447ED8"/>
+                     <pb n="126" facs="unknown:025807_0132_0FCF22CFC5447ED8"/>
                      <speaker>Arn.</speaker>
                      <lg>
                         <l>Thy words, thus pouring in my heart, are oil,</l>
@@ -3997,7 +3997,7 @@ O canſt thou, nurs'd in wealth, and train'd to glory,</l>
                         <l>Haſte to me then, and let thy boſom burn</l>
                         <l>With dire revenge, and unrelenting rage,</l>
                         <l>
-                           <pb n="127" facs="tcp:025807_0133_0FCF22D3C2FB5DE0"/>
+                           <pb n="127" facs="unknown:025807_0133_0FCF22D3C2FB5DE0"/>
 For I ſhall have an action to propoſe,</l>
                         <l>That will require a heart of adamant.</l>
                      </lg>
@@ -4047,7 +4047,7 @@ For I ſhall have an action to propoſe,</l>
                         <l>I would myſelf have done it; but I fear</l>
                         <l>A momentary weakneſs of my ſex</l>
                         <l>
-                           <pb n="128" facs="tcp:025807_0134_0FCF22D54926BA48"/>
+                           <pb n="128" facs="unknown:025807_0134_0FCF22D54926BA48"/>
 Might ſhake my purpoſe, at the very time</l>
                         <l>When heſitation would be my deſtruction:</l>
                         <l>This faithfully perform'd, thou ſhalt be rais'd</l>
@@ -4097,7 +4097,7 @@ Might ſhake my purpoſe, at the very time</l>
                         <l>There lie conceal'd, and I will meet thee ſoon;</l>
                         <l>When we will ſagely meditate, and prepare,</l>
                         <l>
-                           <pb n="129" facs="tcp:025807_0135_0FCF22D688F2E8A8"/>
+                           <pb n="129" facs="unknown:025807_0135_0FCF22D688F2E8A8"/>
 The neceſſary prelude to our greatneſs.</l>
                         <l>Thence thou may'ſt hie thee home the way I mention'd,</l>
                         <l>And ſo return at midnight.</l>
@@ -4136,7 +4136,7 @@ The neceſſary prelude to our greatneſs.</l>
                </div>
             </div>
             <div n="2" type="act">
-               <pb facs="tcp:025807_0136_0FCF22D83982A418"/>
+               <pb facs="unknown:025807_0136_0FCF22D83982A418"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -4160,7 +4160,7 @@ The neceſſary prelude to our greatneſs.</l>
                         <l>Bow the baſe knee to his own father's daughter,</l>
                         <l>Becauſe her birth was ſanction'd by the prieſt,</l>
                         <l>
-                           <pb n="131" facs="tcp:025807_0137_0FCF22D9F9C55A38"/>
+                           <pb n="131" facs="unknown:025807_0137_0FCF22D9F9C55A38"/>
 And his unlicens'd. O forbid it pride!</l>
                         <l>Ambition too prevent it!—Ha! who's there?</l>
                      </lg>
@@ -4204,7 +4204,7 @@ And his unlicens'd. O forbid it pride!</l>
                         <l>To find their foibles drolly ſingular;</l>
                         <l>For in her ridicule was no diſgrace.</l>
                         <l>
-                           <pb n="132" facs="tcp:025807_0138_0FCF22DC13C61E58"/>
+                           <pb n="132" facs="unknown:025807_0138_0FCF22DC13C61E58"/>
                            <gap reason="illegible: indecipherable" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> ſpacious hall, with echo of her praiſe</l>
@@ -4269,7 +4269,7 @@ And his unlicens'd. O forbid it pride!</l>
                         <l>Compoſe yourſelf a little, for you're pale,</l>
                         <l>And ſomething overpow'rs you; when you're better,</l>
                         <l>
-                           <pb n="133" facs="tcp:025807_0139_0FCF22DE06C542D8"/>
+                           <pb n="133" facs="unknown:025807_0139_0FCF22DE06C542D8"/>
 Go to Thereſa, 'tis a pleaſing taſk,</l>
                         <l>And wake the heavenly maid to love and tranſport.</l>
                         <l>Meanwhile I'll haſten to prepare a welcome</l>
@@ -4306,7 +4306,7 @@ Go to Thereſa, 'tis a pleaſing taſk,</l>
                      </lg>
                   </sp>
                   <stage>
-                     <pb n="134" facs="tcp:025807_0140_0FCF22E52E8A98B8"/>
+                     <pb n="134" facs="unknown:025807_0140_0FCF22E52E8A98B8"/>
                      <hi>Enter</hi> ARNALDI, <hi>by a private door.</hi>
                   </stage>
                   <sp>
@@ -4379,7 +4379,7 @@ Go to Thereſa, 'tis a pleaſing taſk,</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="135" facs="tcp:025807_0141_0FCF22E709DAB868"/>
+                     <pb n="135" facs="unknown:025807_0141_0FCF22E709DAB868"/>
                      <speaker>Clot.</speaker>
                      <lg>
                         <l>And when you woke her, was ſhe not in fear?</l>
@@ -4443,7 +4443,7 @@ Go to Thereſa, 'tis a pleaſing taſk,</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="136" facs="tcp:025807_0142_0FCF22E9D4C4ECD0"/>
+                     <pb n="136" facs="unknown:025807_0142_0FCF22E9D4C4ECD0"/>
                      <speaker>Arn.</speaker>
                      <lg>
                         <l>Of Carlo's near arrival, ſay'ſt thou? no;</l>
@@ -4500,7 +4500,7 @@ Go to Thereſa, 'tis a pleaſing taſk,</l>
                         <l>Then ſhall thy death appeaſe Thereſa's ſhade,</l>
                         <l>And thus my juſtice wipe away my crime.</l>
                         <l>
-                           <pb n="137" facs="tcp:025807_0143_0FCF22EE40E468A8"/>
+                           <pb n="137" facs="unknown:025807_0143_0FCF22EE40E468A8"/>
 Now will I ſeek my couch, that when the news</l>
                         <l>Of young Thereſa's death ſhall ſhake the palace,</l>
                         <l>I may be found in ſeeming calm repoſe.</l>
@@ -4538,7 +4538,7 @@ Now will I ſeek my couch, that when the news</l>
                         <l>But ſad, and penſive; fond of ſolitude,</l>
                         <l>He only choſe to ſeek the cypreſs grove,</l>
                         <l>
-                           <pb n="138" facs="tcp:025807_0144_0FCF22EF4B7F6BA0"/>
+                           <pb n="138" facs="unknown:025807_0144_0FCF22EF4B7F6BA0"/>
 What time unruffled evening's dewy hand</l>
                         <l>Bedecks in bluſhing robe her fav'rite ſtar.</l>
                      </lg>
@@ -4599,7 +4599,7 @@ What time unruffled evening's dewy hand</l>
                      </lg>
                   </sp>
                   <stage>
-                     <pb n="139" facs="tcp:025807_0145_0FCF22F1F6AF8300"/>
+                     <pb n="139" facs="unknown:025807_0145_0FCF22F1F6AF8300"/>
                      <hi>Enter</hi> LUCINDA.</stage>
                   <sp>
                      <speaker>Luc.</speaker>
@@ -4657,7 +4657,7 @@ What time unruffled evening's dewy hand</l>
                      </lg>
                   </sp>
                   <stage>
-                     <pb n="140" facs="tcp:025807_0146_0FCF22F36FB2FFA0"/>
+                     <pb n="140" facs="unknown:025807_0146_0FCF22F36FB2FFA0"/>
                      <hi>Enter Attendant.</hi>
                   </stage>
                   <sp>
@@ -4708,7 +4708,7 @@ What time unruffled evening's dewy hand</l>
                      <stage>[Exit.</stage>
                   </sp>
                   <sp>
-                     <pb n="141" facs="tcp:025807_0147_0FCF22F48A055A78"/>
+                     <pb n="141" facs="unknown:025807_0147_0FCF22F48A055A78"/>
                      <speaker>Clot.</speaker>
                      <lg>
                         <l>Now for another bluſt'ring ſcene with Carlo,</l>
@@ -4745,7 +4745,7 @@ What time unruffled evening's dewy hand</l>
                         <l>Plac'd in the palace, I did more than reign,</l>
                         <l>Thro' the bright medium of Thereſa's virtue.</l>
                         <l>
-                           <pb n="142" facs="tcp:025807_0148_0FCF22F638BEFE28"/>
+                           <pb n="142" facs="unknown:025807_0148_0FCF22F638BEFE28"/>
 Nay, ev'n thou wert treated like a ſovereign.</l>
                         <l>Yet, if thou'rt innocent, I ſuſpect thee vilely!</l>
                         <l>Ah no! 'tis true beyond the hope of error,</l>
@@ -4790,7 +4790,7 @@ Nay, ev'n thou wert treated like a ſovereign.</l>
                      </lg>
                      <stage>[Exit Servant.</stage>
                      <lg>
-                        <pb n="143" facs="tcp:025807_0149_0FCF22F78CE26E70"/>
+                        <pb n="143" facs="unknown:025807_0149_0FCF22F78CE26E70"/>
                         <l>That ſhall not ſcreen thee, madam! yet indeed</l>
                         <l>'Twas wond'rous expeditous—but I'll think on't.</l>
                      </lg>
@@ -4851,7 +4851,7 @@ Nay, ev'n thou wert treated like a ſovereign.</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="144" facs="tcp:025807_0150_0FCF22FBD8C92760"/>
+                     <pb n="144" facs="unknown:025807_0150_0FCF22FBD8C92760"/>
                      <speaker>Clot.</speaker>
                      <lg>
                         <l>What doſt thou mean, Alberto?</l>
@@ -4914,7 +4914,7 @@ Nay, ev'n thou wert treated like a ſovereign.</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="145" facs="tcp:025807_0151_0FCF22FE87AFE540"/>
+                     <pb n="145" facs="unknown:025807_0151_0FCF22FE87AFE540"/>
                      <speaker>Alb.</speaker>
                      <lg>
                         <l>Now, by my ſoul, tho' Milan were the world,</l>
@@ -4962,7 +4962,7 @@ Nay, ev'n thou wert treated like a ſovereign.</l>
                         <l>Or bid thy ſoldiers ſhake. I heed thee not.</l>
                         <l>Yet doſt thou ſcorn the dukedom, baſe Alberto!</l>
                         <l>
-                           <pb n="146" facs="tcp:025807_0152_0FCF22FFC7FFB2F0"/>
+                           <pb n="146" facs="unknown:025807_0152_0FCF22FFC7FFB2F0"/>
 Have I then loaded thus my ſoul with ſin</l>
                         <l>To lift thee into greatneſs, but in vain?</l>
                         <l>And torn the ſceptre from Thereſa's hand,</l>
@@ -4985,7 +4985,7 @@ Have I then loaded thus my ſoul with ſin</l>
                </div>
             </div>
             <div n="3" type="act">
-               <pb facs="tcp:025807_0153_0FCF230152BF6C58"/>
+               <pb facs="unknown:025807_0153_0FCF230152BF6C58"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -5013,7 +5013,7 @@ Have I then loaded thus my ſoul with ſin</l>
                      </lg>
                   </sp>
                   <stage>
-                     <pb n="148" facs="tcp:025807_0154_0FCF2302EC312028"/>
+                     <pb n="148" facs="unknown:025807_0154_0FCF2302EC312028"/>
                      <hi>Enter</hi> CLOTILDA.</stage>
                   <sp>
                      <speaker>Clot.</speaker>
@@ -5064,7 +5064,7 @@ Have I then loaded thus my ſoul with ſin</l>
                         <l>Confuſion reigns, and unavailing grief.</l>
                         <l>Deteſted murder! to the common eye</l>
                         <l>
-                           <pb n="149" facs="tcp:025807_0155_0FCF2305CBE17548"/>
+                           <pb n="149" facs="unknown:025807_0155_0FCF2305CBE17548"/>
 That ſeem'ſt moſt ſhocking, how doſt thou appear</l>
                         <l>View'd thro' the anguiſh of a mother's love!</l>
                      </lg>
@@ -5123,7 +5123,7 @@ That ſeem'ſt moſt ſhocking, how doſt thou appear</l>
                         <l>The crown of Milan—'tis Thereſa's voice,</l>
                         <l>From the chill ſepulchre, that cries for juſtice,</l>
                         <l>
-                           <pb n="150" facs="tcp:025807_0156_0FCF2309B40F5CB0"/>
+                           <pb n="150" facs="unknown:025807_0156_0FCF2309B40F5CB0"/>
 And I'll obey the call of her, and truth.</l>
                         <l>Know then, moſt royal Carlo yeſternight,</l>
                         <l>When my lov'd ſov'reign took her flight to Heaven,</l>
@@ -5168,7 +5168,7 @@ And I'll obey the call of her, and truth.</l>
                         <l>Of ſervile courtiers, or the bauble crown,</l>
                         <l>Allure thy ſpirit to ſo damn'd a deed?</l>
                         <l>
-                           <pb n="151" facs="tcp:025807_0157_0FCF230E20812EA8"/>
+                           <pb n="151" facs="unknown:025807_0157_0FCF230E20812EA8"/>
 O man! how weak is all thy boaſted virtue!</l>
                         <l>When ſtrong temptation urges thee to wrong;</l>
                         <l>Nay, ſince my once-lov'd friend is ſunk thus low,</l>
@@ -5215,7 +5215,7 @@ O man! how weak is all thy boaſted virtue!</l>
                         <l>Loſt in a labyrinth of mingled woe.</l>
                         <l>Subdue thy rage, my beſt-beloved Carlo!</l>
                         <l>
-                           <pb n="152" facs="tcp:025807_0158_0FCF2310129EB940"/>
+                           <pb n="152" facs="unknown:025807_0158_0FCF2310129EB940"/>
 Nor wound my ears with ſuch afflictive ſounds</l>
                         <l>Of vile upbraidings, and diſcordant frenzy.</l>
                      </lg>
@@ -5262,7 +5262,7 @@ Nor wound my ears with ſuch afflictive ſounds</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="153" facs="tcp:025807_0159_0FCF231144D98038"/>
+                     <pb n="153" facs="unknown:025807_0159_0FCF231144D98038"/>
                      <speaker>Alb.</speaker>
                      <lg>
                         <l>Then be it ſo, I ſhall not wiſh to fail thee.</l>
@@ -5313,7 +5313,7 @@ Nor wound my ears with ſuch afflictive ſounds</l>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="154" facs="tcp:025807_0160_0FCF23128DE8AB40"/>
+                  <pb n="154" facs="unknown:025807_0160_0FCF23128DE8AB40"/>
                   <head>SCENE II.</head>
                   <stage>Moonlight. The Mauſoleum of the Dukes of Milan.</stage>
                   <stage>
@@ -5345,7 +5345,7 @@ Nor wound my ears with ſuch afflictive ſounds</l>
                      </lg>
                      <stage>[Puts her Hand upon a Dagger.</stage>
                      <lg>
-                        <pb n="155" facs="tcp:025807_0161_0FCF231951850FC8"/>
+                        <pb n="155" facs="unknown:025807_0161_0FCF231951850FC8"/>
                         <l>Of all thy expectations meets thee here.</l>
                         <l>Yonder he comes, I hear his eager ſtep—</l>
                         <l>O let me ſteel my boſom to its purpoſe!</l>
@@ -5389,7 +5389,7 @@ Nor wound my ears with ſuch afflictive ſounds</l>
                         <l>'Tis well that I, the miniſter of death,</l>
                         <l>Should from the dead receive my juſt reward.</l>
                         <l>
-                           <pb n="156" facs="tcp:025807_0162_0FCF231BDFB52C18"/>
+                           <pb n="156" facs="unknown:025807_0162_0FCF231BDFB52C18"/>
 Thou dreary chamber! ope thy hungry jaws,</l>
                      </lg>
                      <stage>[He unlocks the Sepulchre.</stage>
@@ -5427,7 +5427,7 @@ Thou dreary chamber! ope thy hungry jaws,</l>
                      <stage>[They go into the Mauſoleum and ſhut the Gates.</stage>
                   </sp>
                   <stage>
-                     <pb n="157" facs="tcp:025807_0163_0FCF231DE48D6C00"/>
+                     <pb n="157" facs="unknown:025807_0163_0FCF231DE48D6C00"/>
                      <hi>Enter</hi> ALBERTO <hi>and</hi> CARLO.</stage>
                   <sp>
                      <speaker>Alb.</speaker>
@@ -5475,7 +5475,7 @@ Thou dreary chamber! ope thy hungry jaws,</l>
                         <l>Upon the ſplendid picture of the world,</l>
                         <l>And break each fond attachment: but, farewel!</l>
                         <l>
-                           <pb n="158" facs="tcp:025807_0164_0FCF231F723247E0"/>
+                           <pb n="158" facs="unknown:025807_0164_0FCF231F723247E0"/>
 The various intereſts of active life,</l>
                         <l>The ſocial intercourſe of friendly men,</l>
                         <l>And glory's luring charms, all, all farewel!</l>
@@ -5519,7 +5519,7 @@ The various intereſts of active life,</l>
                         <l>He's innocent! O mark his dying brow,</l>
                         <l>Free from all ſymptom of diſturbing guilt;</l>
                         <l>
-                           <pb n="159" facs="tcp:025807_0165_0FCF2320CC507B28"/>
+                           <pb n="159" facs="unknown:025807_0165_0FCF2320CC507B28"/>
 Yes, he is innocent, and I myſelf</l>
                         <l>Am the dark-minded, monſter, and the murderer.</l>
                      </lg>
@@ -5570,7 +5570,7 @@ Yes, he is innocent, and I myſelf</l>
                      <lg>
                         <l>Now malice thou'rt content—my ſum of ill</l>
                         <l>
-                           <pb n="160" facs="tcp:025807_0166_0FCF23228840E270"/>
+                           <pb n="160" facs="unknown:025807_0166_0FCF23228840E270"/>
 Cannot be greater, nor my puniſhment</l>
                         <l>Exceed my juſt deſerving—O Alberto!</l>
                      </lg>
@@ -5634,7 +5634,7 @@ Cannot be greater, nor my puniſhment</l>
                      </lg>
                      <stage>[To Alberto.</stage>
                      <lg>
-                        <pb n="161" facs="tcp:025807_0167_0FCF2325690B81E0"/>
+                        <pb n="161" facs="unknown:025807_0167_0FCF2325690B81E0"/>
                         <l>And I will waſh thy wound with my heart's blood.</l>
                         <l>Wretch that I was to give implicit faith</l>
                         <l>To ſuch apparent, ſhallow artifice.</l>
@@ -5684,7 +5684,7 @@ Cannot be greater, nor my puniſhment</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="162" facs="tcp:025807_0168_0FCF2326D9D3DCB8"/>
+                     <pb n="162" facs="unknown:025807_0168_0FCF2326D9D3DCB8"/>
                      <speaker>Ther.</speaker>
                      <lg>
                         <l>I will accept him at thy hand, Alberto!</l>
@@ -5728,7 +5728,7 @@ Cannot be greater, nor my puniſhment</l>
             </div>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0169_0FCF232907698D70"/>
+            <pb facs="unknown:025807_0169_0FCF232907698D70"/>
             <head>STANZAS ON FRIENDSHIP.</head>
             <lg>
                <l>O, FRIENDSHIP! ſource of every good!</l>
@@ -5749,7 +5749,7 @@ Cannot be greater, nor my puniſhment</l>
                <l>Exalted Frindſhip's fervent glow.</l>
             </lg>
             <lg>
-               <pb n="164" facs="tcp:025807_0170_0FCF232B141F42A8"/>
+               <pb n="164" facs="unknown:025807_0170_0FCF232B141F42A8"/>
                <l>When haughty great-ones condeſcend,</l>
                <l>To patronize the humble friend,</l>
                <l>Who every feeling muſt reſign—</l>
@@ -5786,7 +5786,7 @@ Cannot be greater, nor my puniſhment</l>
                <l>And ſharing ſorrows, make them leſs.</l>
             </lg>
             <lg>
-               <pb n="165" facs="tcp:025807_0171_0FCF232C068D98D8"/>
+               <pb n="165" facs="unknown:025807_0171_0FCF232C068D98D8"/>
                <l>When affluence crowns ſucceſsful toil,</l>
                <l>And Fate propitious wears a ſmile;</l>
                <l>Thy influence aids the ſweet employ,</l>
@@ -5809,7 +5809,7 @@ Cannot be greater, nor my puniſhment</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0172_0FCF233555F7B3F8"/>
+            <pb facs="unknown:025807_0172_0FCF233555F7B3F8"/>
             <head>VERSES TO A YOUNG LADY AT BATH,</head>
             <head type="sub">In whoſe Pocket-Book the AUTHOR had, at a very early Period of Life, written ſome Lines.</head>
             <lg>
@@ -5830,7 +5830,7 @@ Cannot be greater, nor my puniſhment</l>
                <l>The Hint tranſpir'd—and ſwift as thought,</l>
                <l>The favour'd Pocket-Book was brought,</l>
                <l>
-                  <pb n="167" facs="tcp:025807_0173_0FCF233A201FB1A0"/>
+                  <pb n="167" facs="unknown:025807_0173_0FCF233A201FB1A0"/>
 While kind advice, and caution ſage,</l>
                <l>Stood pencil'd o'er the virgin page;</l>
                <l>Her little hands receiv'd the toy,</l>
@@ -5863,7 +5863,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0174_0FCF233BF9FC7B80"/>
+            <pb facs="unknown:025807_0174_0FCF233BF9FC7B80"/>
             <head>THE COMPLAINT. TO LORD *****.</head>
             <lg>
                <l>AND does my friend with kindly ray,</l>
@@ -5884,7 +5884,7 @@ While kind advice, and caution ſage,</l>
                <l>And muſt it ceaſe to flow?</l>
             </lg>
             <lg>
-               <pb n="169" facs="tcp:025807_0175_0FCF233D8D02BBF8"/>
+               <pb n="169" facs="unknown:025807_0175_0FCF233D8D02BBF8"/>
                <l>Ah me! the ſcenes of fond delight,</l>
                <l>That wont to charm, are o'er;</l>
                <l>And now no more the Muſe invite,</l>
@@ -5922,7 +5922,7 @@ While kind advice, and caution ſage,</l>
                <l>And long hath pierc'd my fame:</l>
             </lg>
             <lg>
-               <pb n="170" facs="tcp:025807_0176_0FCF233FEF8DE3A0"/>
+               <pb n="170" facs="unknown:025807_0176_0FCF233FEF8DE3A0"/>
                <l>And many an idle tale hath run,</l>
                <l>And much hath been believ'd,</l>
                <l>Of broken vows, and maids undone,</l>
@@ -5959,7 +5959,7 @@ While kind advice, and caution ſage,</l>
                <l>And carol time away.</l>
             </lg>
             <lg>
-               <pb n="171" facs="tcp:025807_0177_0FCF23412C60B3D8"/>
+               <pb n="171" facs="unknown:025807_0177_0FCF23412C60B3D8"/>
                <l>But now no more the heaving ſigh,</l>
                <l>Shall force the tear to ſtart;</l>
                <l>But now no more the gliſt'ning eye,</l>
@@ -5982,7 +5982,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0178_0FCF23430F8FC7A8"/>
+            <pb facs="unknown:025807_0178_0FCF23430F8FC7A8"/>
             <head>ODE TO ****.</head>
             <lg>
                <l>PRAISE to the men who boldly dare,</l>
@@ -6009,7 +6009,7 @@ While kind advice, and caution ſage,</l>
                <l>For worth belov'd, not pageantry admir'd—</l>
             </lg>
             <lg>
-               <pb n="173" facs="tcp:025807_0179_0FCF2344401B4090"/>
+               <pb n="173" facs="unknown:025807_0179_0FCF2344401B4090"/>
                <l>'Tis theirs with kind and bounteous hand,</l>
                <l>To ſcatter plenty o'er the land;</l>
                <l>To bid diſtreſs and ſorrow ſmile,</l>
@@ -6039,7 +6039,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0180_0FCF2345A454D3B8"/>
+            <pb facs="unknown:025807_0180_0FCF2345A454D3B8"/>
             <head>PRAYER TO VENUS.</head>
             <lg>
                <l>KIND Venus, hear thy ſuppliant's pray'r,</l>
@@ -6060,7 +6060,7 @@ While kind advice, and caution ſage,</l>
                <l>That nurſe the tender fear.</l>
             </lg>
             <lg>
-               <pb n="175" facs="tcp:025807_0181_0FCEEFE405C35398"/>
+               <pb n="175" facs="unknown:025807_0181_0FCEEFE405C35398"/>
                <l>Have ſhar'd the fond endearing kiſs,</l>
                <l>Which mutual ardour fires,</l>
                <l>And taſted oft that genuine bliſs,</l>
@@ -6101,7 +6101,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0182_0FCF23488EE06920"/>
+            <pb facs="unknown:025807_0182_0FCF23488EE06920"/>
             <head>COMPLIMENTARY VERSES.</head>
             <p>
                <hi>Some years ago, at the houſe of a deceaſed Nobleman, ſeveral complimentary Verſes to the brilliancy of the Hon. Mrs.</hi> N—H'<hi>s Eyes were written;—amongſt the reſt the following:</hi>
@@ -6123,7 +6123,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0183_0FCF234A4F38ED48"/>
+            <pb facs="unknown:025807_0183_0FCF234A4F38ED48"/>
             <head>STANZAS</head>
             <head type="sub">Written on the Children of Lady CRAVEN, performing a PLAY, before her at Queenſbury Houſe ſome years ago.</head>
             <lg>
@@ -6167,7 +6167,7 @@ While kind advice, and caution ſage,</l>
                </l>
             </lg>
             <lg>
-               <pb n="178" facs="tcp:025807_0184_0FCF234C2820C808"/>
+               <pb n="178" facs="unknown:025807_0184_0FCF234C2820C808"/>
                <l>
                   <hi>What tho' on your baby brows,</hi>
                </l>
@@ -6200,7 +6200,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0185_0FCF234D08989F60"/>
+            <pb facs="unknown:025807_0185_0FCF234D08989F60"/>
             <head>THE RETROSPECT.</head>
             <lg>
                <l>AMID the ſcenes of noiſe and ſtrife,</l>
@@ -6227,7 +6227,7 @@ While kind advice, and caution ſage,</l>
                <l>Produc'd a guiltleſs joy.</l>
             </lg>
             <lg>
-               <pb n="180" facs="tcp:025807_0186_0FCF2350302FA5C8"/>
+               <pb n="180" facs="unknown:025807_0186_0FCF2350302FA5C8"/>
                <l>There, pleas'd I trace the flow'ry mead,</l>
                <l>And round the well-known elm-trees tread,</l>
                <l>Where oft I've careleſs play'd;</l>
@@ -6260,7 +6260,7 @@ While kind advice, and caution ſage,</l>
                <l>And urge th'enquiring tongue.</l>
             </lg>
             <lg>
-               <pb n="181" facs="tcp:025807_0187_0FCF2351C51E16D0"/>
+               <pb n="181" facs="unknown:025807_0187_0FCF2351C51E16D0"/>
                <l>Where, ſtudious ſtill maturing age,</l>
                <l>Explor'd the long inſtructive page,</l>
                <l>And emulous of fame,</l>
@@ -6293,7 +6293,7 @@ While kind advice, and caution ſage,</l>
                <l>And undiſſembled ſmile.</l>
             </lg>
             <lg>
-               <pb n="182" facs="tcp:025807_0188_0FCF23550D865B48"/>
+               <pb n="182" facs="unknown:025807_0188_0FCF23550D865B48"/>
                <l>Regardleſs of to-morrow's doom,</l>
                <l>They feel no dread of ills to come,</l>
                <l>Nor Pleaſure's feaſt forego;</l>
@@ -6322,7 +6322,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0189_0FCF23560C6C9290"/>
+            <pb facs="unknown:025807_0189_0FCF23560C6C9290"/>
             <head>STANZAS TO ILL-NATURE.</head>
             <lg>
                <l>FIEND abhorr'd! Mankind's worſt foe!—</l>
@@ -6349,7 +6349,7 @@ While kind advice, and caution ſage,</l>
                <l>Sated rancour, all thy joy.</l>
             </lg>
             <lg>
-               <pb n="184" facs="tcp:025807_0190_0FCF23584B4934B8"/>
+               <pb n="184" facs="unknown:025807_0190_0FCF23584B4934B8"/>
                <l>Does the Muſe with ſportive power,</l>
                <l>Strive the gloom of life to cheer,</l>
                <l>Thou'lt arraign the harmleſs hour,</l>
@@ -6387,7 +6387,7 @@ While kind advice, and caution ſage,</l>
                <l>Only hear, and only truſt.</l>
             </lg>
             <lg>
-               <pb n="185" facs="tcp:025807_0191_0FCF2359E167B648"/>
+               <pb n="185" facs="unknown:025807_0191_0FCF2359E167B648"/>
                <l>Did not oft the ſecret lie</l>
                <l>Break the bond of private peace,</l>
                <l>Bid domeſtic comfort fly,</l>
@@ -6424,7 +6424,7 @@ While kind advice, and caution ſage,</l>
                <l>All his errors magnified.</l>
             </lg>
             <lg>
-               <pb n="186" facs="tcp:025807_0192_0FCF235D17241668"/>
+               <pb n="186" facs="unknown:025807_0192_0FCF235D17241668"/>
                <l>Fiend relentleſs—Tyrant grim—</l>
                <l>Yet a while, and all is o'er;</l>
                <l>When the lamp of life is dim,</l>
@@ -6447,7 +6447,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0193_0FCF235E9379CB48"/>
+            <pb facs="unknown:025807_0193_0FCF235E9379CB48"/>
             <head>THE CONFESSION. TO MISS ****.</head>
             <lg>
                <l>IN vain I ſtrive my heart to ſhield,</l>
@@ -6474,7 +6474,7 @@ While kind advice, and caution ſage,</l>
                <l>Thus caught by Senſibility?</l>
             </lg>
             <lg>
-               <pb n="188" facs="tcp:025807_0194_0FCF241AAB206BA8"/>
+               <pb n="188" facs="unknown:025807_0194_0FCF241AAB206BA8"/>
                <l>Yet not for me the tear will ſtart,</l>
                <l>Which proves <hi>Eliza'</hi>s tender heart;</l>
                <l>Yet not for me the ſmile will ſpeak,</l>
@@ -6497,7 +6497,7 @@ While kind advice, and caution ſage,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0195_0FCEEFEEDA5CA840"/>
+            <pb facs="unknown:025807_0195_0FCEEFEEDA5CA840"/>
             <head>PROLOGUE TO THE COMEDY OF THE PROVOK'D HUSBAND.</head>
             <head type="sub">Spoken ſome time ago at a Private Performance at WEYBRIDGE.</head>
             <lg>
@@ -6518,7 +6518,7 @@ While kind advice, and caution ſage,</l>
                <l>But when Compaſſion taught his breaſt to glow—</l>
                <l>When fond Forgiveneſs beam'd upon his brow—</l>
                <l>
-                  <pb n="190" facs="tcp:025807_0196_0FCEEFF0D02CB770"/>
+                  <pb n="190" facs="unknown:025807_0196_0FCEEFF0D02CB770"/>
 When with diſcordant pangs no more at ſtrife,</l>
                <l>He caught with tranſport his repentant Wife:</l>
                <l>Chas'd with a kiſs the ſorrows from her cheek,</l>
@@ -6547,7 +6547,7 @@ When with diſcordant pangs no more at ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0197_0FCEEFF292491378"/>
+            <pb facs="unknown:025807_0197_0FCEEFF292491378"/>
             <head>THE INVITATION. TO DELIA.</head>
             <lg>
                <l>THY youthful charms, bright Maid, inſpire,</l>
@@ -6567,7 +6567,7 @@ When with diſcordant pangs no more at ſtrife,</l>
                <l>'Tis Nature kindly aids my muſe,</l>
                <l>And dictates to my ſong;</l>
                <l>
-                  <pb n="192" facs="tcp:025807_0198_0FCEEFF40DA842F8"/>
+                  <pb n="192" facs="unknown:025807_0198_0FCEEFF40DA842F8"/>
 Would'ſt thou, ſhe cries, true bliſs enſure,</l>
                <l>Make haſte the town to leave,</l>
                <l>Where Pleaſure's gilded baits allure,</l>
@@ -6600,7 +6600,7 @@ Would'ſt thou, ſhe cries, true bliſs enſure,</l>
                <l>To ſhare the ſweets of mutual love.</l>
             </lg>
             <lg>
-               <pb n="193" facs="tcp:025807_0199_0FCF235FC6849058"/>
+               <pb n="193" facs="unknown:025807_0199_0FCF235FC6849058"/>
                <l>When Autumn yields her ripen'd corn,</l>
                <l>Or Winter dark'ning low'rs,</l>
                <l>With tend'reſt care, I'll ſooth thy morn,</l>
@@ -6630,7 +6630,7 @@ Would'ſt thou, ſhe cries, true bliſs enſure,</l>
                <l>Make beauty loſe its lovely bloom,</l>
                <l>And often virtue too;</l>
                <l>
-                  <pb n="194" facs="tcp:025807_0200_0FCF23667123DD50"/>
+                  <pb n="194" facs="unknown:025807_0200_0FCF23667123DD50"/>
 There, free from diſcontent and ſtrife,</l>
                <l>Each undeſigning youth</l>
                <l>Strives to relieve the cares of life,</l>
@@ -6655,7 +6655,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0201_0FCF236824604180"/>
+            <pb facs="unknown:025807_0201_0FCF236824604180"/>
             <head>STANZAS ON A YOUNG LADY's BIRTH-DAY.</head>
             <head type="sub">In the Month of November.</head>
             <lg>
@@ -6677,7 +6677,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>The fervent wiſh ſhall glow.</l>
             </lg>
             <lg>
-               <pb n="196" facs="tcp:025807_0202_0FCF236B6F6C0B90"/>
+               <pb n="196" facs="unknown:025807_0202_0FCF236B6F6C0B90"/>
                <l>Henceforward now ſhall diſappear</l>
                <l>Dull Winter's cheerleſs gloom;</l>
                <l>November's month ſhall charm the year,</l>
@@ -6712,7 +6712,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0203_0FCF236C89C10648"/>
+            <pb facs="unknown:025807_0203_0FCF236C89C10648"/>
             <head>LINES SENT TO A FRIEND WITH A WATCH.</head>
             <lg>
                <l>ACCEPT, my friend, and kindly deem</l>
@@ -6733,7 +6733,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>By Fortune's ſmile, or frown.</l>
             </lg>
             <lg>
-               <pb n="198" facs="tcp:025807_0204_0FCF236F02B603F8"/>
+               <pb n="198" facs="unknown:025807_0204_0FCF236F02B603F8"/>
                <l>In infant ſtate, when learning's lore,</l>
                <l>For Paſtime was forgot,</l>
                <l>It whiſper'd oft the haſt'ning hour,</l>
@@ -6756,7 +6756,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0205_0FCF237054897628"/>
+            <pb facs="unknown:025807_0205_0FCF237054897628"/>
             <head>SONG, Addreſſed to A YOUNG LADY.</head>
             <lg>
                <l>SHOULD you aſk me, what female deſert I require</l>
@@ -6779,7 +6779,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>Or baniſh diſtreſs from the heart.</l>
             </lg>
             <lg>
-               <pb n="200" facs="tcp:025807_0206_0FCF2371C72E8FE0"/>
+               <pb n="200" facs="unknown:025807_0206_0FCF2371C72E8FE0"/>
                <l>Then give me the temper unclouded and gay,</l>
                <l>The countenance ever ſerene,</l>
                <l>To cheer with ſweet converſe as youth wears away,</l>
@@ -6804,7 +6804,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0207_0FCF237356769470"/>
+            <pb facs="unknown:025807_0207_0FCF237356769470"/>
             <head>BALLAD, FOUNDED ON FACT.</head>
             <lg>
                <l>ELIZA was beyond compare,</l>
@@ -6831,7 +6831,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>A prey to every ſnare.</l>
             </lg>
             <lg>
-               <pb n="202" facs="tcp:025807_0208_0FCF237638756A38"/>
+               <pb n="202" facs="unknown:025807_0208_0FCF237638756A38"/>
                <l>One only fault the Maid proſſeſs'd—</l>
                <l>—If that a fault we deem—</l>
                <l>A tender, unſuſpecting breaſt,</l>
@@ -6863,7 +6863,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>And cropp'd the virgin flow'r.</l>
             </lg>
             <lg>
-               <pb n="203" facs="tcp:025807_0209_0FCF2379CD126B98"/>
+               <pb n="203" facs="unknown:025807_0209_0FCF2379CD126B98"/>
                <l>Her orphan ſtate, her tender years,</l>
                <l>Her pure, unſpotted fame,</l>
                <l>Serv'd but to huſh his guilty fears,</l>
@@ -6894,7 +6894,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>Invective and diſgrace?</l>
             </lg>
             <lg>
-               <pb n="204" facs="tcp:025807_0210_0FCF237E07126108"/>
+               <pb n="204" facs="unknown:025807_0210_0FCF237E07126108"/>
                <l>No ſorrows could afford relief,</l>
                <l>No penitence a one;</l>
                <l>The ſigh ſhe gave to others' grief,</l>
@@ -6925,7 +6925,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>No comfort but the Grave.</l>
             </lg>
             <lg>
-               <pb n="205" facs="tcp:025807_0211_0FCF2380087B5F18"/>
+               <pb n="205" facs="unknown:025807_0211_0FCF2380087B5F18"/>
                <l>Awhile ſhe Heaven's forgiveneſs pray'd,</l>
                <l>For errors long confeſt;</l>
                <l>Then ſought the ſolitary ſhade,</l>
@@ -6956,7 +6956,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>You thus refuſe to cheer?</l>
             </lg>
             <lg>
-               <pb n="206" facs="tcp:025807_0212_0FCF23819D624720"/>
+               <pb n="206" facs="unknown:025807_0212_0FCF23819D624720"/>
                <l>O rather kindly condeſcend</l>
                <l>To aid the drooping fair;</l>
                <l>Your mercy with your juſtice blend,</l>
@@ -6987,7 +6987,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>And mournfully expir'd.</l>
             </lg>
             <lg>
-               <pb n="207" facs="tcp:025807_0213_0FCF23831754DAC8"/>
+               <pb n="207" facs="unknown:025807_0213_0FCF23831754DAC8"/>
                <l>Thus warn'd, ye Fair, with caution arm</l>
                <l>'Gainſt Man's perfidious arts:</l>
                <l>Since Youth and Beauty vainly charm</l>
@@ -7010,7 +7010,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0214_0FCF2385A7F2AB58"/>
+            <pb facs="unknown:025807_0214_0FCF2385A7F2AB58"/>
             <head>[The following Lines were the earlieſt offering to a Young Lady, whoſe Theatric talents once formed the ornament of the Stage on which ſhe ap<g ref="char:EOLhyphen"/>peared; and whoſe Memory will be honoured by the Drama which ſhe adorned.</head>
             <head>TO LAURA.</head>
             <lg>
@@ -7032,7 +7032,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>She ſtamps my bliſs, or ſeals my doom.</l>
             </lg>
             <lg>
-               <pb n="209" facs="tcp:025807_0215_0FCF2386D01AE4F0"/>
+               <pb n="209" facs="unknown:025807_0215_0FCF2386D01AE4F0"/>
                <l>Bid her recal that happy hour,</l>
                <l>When to the box the wand ſhe bore;</l>
                <l>And having play'd her public part,</l>
@@ -7070,7 +7070,7 @@ There, free from diſcontent and ſtrife,</l>
                </l>
             </lg>
             <lg>
-               <pb n="210" facs="tcp:025807_0216_0FCF2388CB37C3E0"/>
+               <pb n="210" facs="unknown:025807_0216_0FCF2388CB37C3E0"/>
                <l>For me, unſkill'd, unus'd to plead,</l>
                <l>My humble Verſe may ill ſucceed;</l>
                <l>Yet LAURA, to that Verſe attend,</l>
@@ -7103,7 +7103,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0217_0FCF238DA467EA70"/>
+            <pb facs="unknown:025807_0217_0FCF238DA467EA70"/>
             <head>ELEGY. To the LADY who will beſt remember it.</head>
             <lg>
                <l>WHEN ſtrong Affliction deeply wounds the breaſt,</l>
@@ -7130,7 +7130,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>Untir'd wilt liſten, and unſeen wilt ſooth.</l>
             </lg>
             <lg>
-               <pb n="212" facs="tcp:025807_0218_0FCF238F063EE850"/>
+               <pb n="212" facs="unknown:025807_0218_0FCF238F063EE850"/>
                <l>Oft haſt thou tried, and oft with kind ſucceſs,</l>
                <l>To ſmooth the ſorrows of my aching brow;</l>
                <l>But ah! I never felt ſevere diſtreſs,</l>
@@ -7167,7 +7167,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>To ſhed with her one ſympathizing tear;</l>
             </lg>
             <lg>
-               <pb n="213" facs="tcp:025807_0219_0FCF2390AE947040"/>
+               <pb n="213" facs="unknown:025807_0219_0FCF2390AE947040"/>
                <l>That ſingle tear that dews ELIZA'S cheek,</l>
                <l>Shall for a moment waſh my griefs away;</l>
                <l>That ſigh, tho' half ſuppreſt, ſhall more than ſpeak,</l>
@@ -7204,7 +7204,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>To ſhine amidſt the ſoften'd joys of life.</l>
             </lg>
             <lg>
-               <pb n="214" facs="tcp:025807_0220_0FCF23940E786FF0"/>
+               <pb n="214" facs="unknown:025807_0220_0FCF23940E786FF0"/>
                <l>For me, whom poignant woes muſt ſtill depreſs,</l>
                <l>Each future hour to ſorrow I reſign;</l>
                <l>Death only can alleviate my diſtreſs,</l>
@@ -7215,7 +7215,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0221_0FCF239611F2D558"/>
+            <pb facs="unknown:025807_0221_0FCF239611F2D558"/>
             <head>LOVE RENEW'D A SONNET.</head>
             <lg>
                <l>LIGHT fly the hours, attendant joy,</l>
@@ -7236,7 +7236,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>Which intereſts every ſcene of life:</l>
             </lg>
             <lg>
-               <pb n="216" facs="tcp:025807_0222_0FCF23974DA9AE40"/>
+               <pb n="216" facs="unknown:025807_0222_0FCF23974DA9AE40"/>
                <l>The cheek ſuffus'd the downcaſt brow,</l>
                <l>The ſigh eſcap'd we know not how;</l>
                <l>The ſoft rebuke, th' unwilling blame,</l>
@@ -7277,7 +7277,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0223_0FCF2398DCA1A6A0"/>
+            <pb facs="unknown:025807_0223_0FCF2398DCA1A6A0"/>
             <head>CHARACTERISTIC SONG.</head>
             <head type="sub">Suppoſed to be ſung by a SAILOR's LASS, to her FAVOURITE; who has been treating her rather unkindly.</head>
             <lg>
@@ -7299,7 +7299,7 @@ There, free from diſcontent and ſtrife,</l>
                <l>And only upbraided my TOM with a tear.</l>
             </lg>
             <lg>
-               <pb n="218" facs="tcp:025807_0224_0FCF239A62361A38"/>
+               <pb n="218" facs="unknown:025807_0224_0FCF239A62361A38"/>
                <l>Still faithful and fond from the firſt of my life,</l>
                <l>Tho' I boaſt not the Name, I've the truth of a Wife;</l>
                <l>For falſehood in Wedlock too often is priz'd,</l>
@@ -7310,7 +7310,7 @@ There, free from diſcontent and ſtrife,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0225_0FCF239BDD1FEAD8"/>
+            <pb facs="unknown:025807_0225_0FCF239BDD1FEAD8"/>
             <head>The following POEM, in a diſtant part of the World, had Fact for its Found<g ref="char:EOLhyphen"/>ation. The Lovers thus deſcribed, parted, with the emotions the Story gives them. The Dialogue only is fanciful. It is the form which the Author adopted, as the beſt Method of conveying to the Public.</head>
             <head>THE REPENTANCE OF PASSION.</head>
             <sp>
@@ -7334,7 +7334,7 @@ There, free from diſcontent and ſtrife,</l>
                   <l>Forſake the Youth my heart has choſe,</l>
                   <l>And fly, becauſe his health has fled?</l>
                   <l>
-                     <pb n="220" facs="tcp:025807_0226_0FCF239E23EEF1B0"/>
+                     <pb n="220" facs="unknown:025807_0226_0FCF239E23EEF1B0"/>
 And will he, ſunk in ſad deſpair,</l>
                   <l>Believe his <hi>Harriet</hi> loves no more;</l>
                   <l>Or think, while ſhe can ſooth one care,</l>
@@ -7368,7 +7368,7 @@ And will he, ſunk in ſad deſpair,</l>
                </lg>
             </sp>
             <sp>
-               <pb n="221" facs="tcp:025807_0227_0FCF23A23671C650"/>
+               <pb n="221" facs="unknown:025807_0227_0FCF23A23671C650"/>
                <speaker>HE.</speaker>
                <lg>
                   <l>O ſpurn me!—Caſe thy heart in ſteel—</l>
@@ -7402,7 +7402,7 @@ And will he, ſunk in ſad deſpair,</l>
                   <l>Unpitying Love would ſcorn my pray'r,</l>
                   <l>And injur'd Nature owns me not;</l>
                   <l>
-                     <pb n="222" facs="tcp:025807_0228_0FCF23A732B0B710"/>
+                     <pb n="222" facs="unknown:025807_0228_0FCF23A732B0B710"/>
 When, in the fond ingenuous hour,</l>
                   <l>Thy native tenderneſs was ſhewn,</l>
                   <l>How did I meanly ſport with pow'r,</l>
@@ -7436,7 +7436,7 @@ When, in the fond ingenuous hour,</l>
                </lg>
             </sp>
             <sp>
-               <pb n="223" facs="tcp:025807_0229_0FCF23AA5554A5C8"/>
+               <pb n="223" facs="unknown:025807_0229_0FCF23AA5554A5C8"/>
                <speaker>SHE.</speaker>
                <lg>
                   <l>Here—on this boſom, reſt thy head—</l>
@@ -7464,7 +7464,7 @@ When, in the fond ingenuous hour,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0230_0FCF23AB94AF1310"/>
+            <pb facs="unknown:025807_0230_0FCF23AB94AF1310"/>
             <head>DIVERSITY. A POEM.</head>
             <lg>
                <l>'T WAS on a mountain's airy ſpire,</l>
@@ -7484,7 +7484,7 @@ When, in the fond ingenuous hour,</l>
                <l>The claſſic feature, and the form of ſenſe,</l>
                <l>And hail the MUSE SUBLIME, and PATRIOT ELOQUENCE.</l>
                <l>
-                  <pb n="225" facs="tcp:025807_0231_0FCF23AD05972ED0"/>
+                  <pb n="225" facs="unknown:025807_0231_0FCF23AD05972ED0"/>
 Theſe are the plains that FANCY loves,</l>
                <l>O'er theſe white cliffs ſhe wanders free,</l>
                <l>And ſcatters in the floating gale,</l>
@@ -7514,7 +7514,7 @@ Theſe are the plains that FANCY loves,</l>
                <l>Ha! as ſhe ſwept with wild'ring hand</l>
                <l>Her charmed harp, o'er ſea and land</l>
                <l>
-                  <pb n="226" facs="tcp:025807_0232_0FCF23AE94770768"/>
+                  <pb n="226" facs="unknown:025807_0232_0FCF23AE94770768"/>
 Fleet ZEPHYR bore each melting tone,</l>
                <l>That MELANCHOLY thought her own,</l>
                <l>That frolic PLEASURE ſmil'd to hear,</l>
@@ -7546,7 +7546,7 @@ Fleet ZEPHYR bore each melting tone,</l>
                <l>O'er the ſleek wave ſhe bade a NUM'ROUS SAIL</l>
                <l>Stretch'd the fair canvas to the waſting gale;—</l>
                <l>
-                  <pb n="227" facs="tcp:025807_0233_0FCF23B00AD68D28"/>
+                  <pb n="227" facs="unknown:025807_0233_0FCF23B00AD68D28"/>
 From ſhelving hills triumphant CITIES riſe,</l>
                <l>And tow'rs and column'd domes uſurp the ſkies;—</l>
                <l>Bade meadows ſmile with many a cultur'd bow'r,</l>
@@ -7578,7 +7578,7 @@ From ſhelving hills triumphant CITIES riſe,</l>
                <l>Borne upon tranſlucent wings,</l>
                <l>LOVE, the wanton Cherub ſprings;</l>
                <l>
-                  <pb n="228" facs="tcp:025807_0234_0FCF23B18BAAFFE0"/>
+                  <pb n="228" facs="unknown:025807_0234_0FCF23B18BAAFFE0"/>
 And flutters round in mazy play,</l>
                <l>Enthuſiaſtic at the lay!</l>
                <l>But ſoon he hies him to the cypreſs grove,</l>
@@ -7608,7 +7608,7 @@ And flutters round in mazy play,</l>
                <l>She wooes them to the ſcene, to ſhow</l>
                <l>How near allied are BLISS AND WOE,</l>
                <l>
-                  <pb n="229" facs="tcp:025807_0235_0FCF23B308791CF8"/>
+                  <pb n="229" facs="unknown:025807_0235_0FCF23B308791CF8"/>
 How ſweetly powerful to move,</l>
                <l>The ſilent ſentiment of LOVE!</l>
             </lg>
@@ -7643,7 +7643,7 @@ How ſweetly powerful to move,</l>
                <l>Yet gain'd from Pity what they loſt of Joy.</l>
             </lg>
             <lg>
-               <pb n="230" facs="tcp:025807_0236_0FCF23B4A4B333E0"/>
+               <pb n="230" facs="unknown:025807_0236_0FCF23B4A4B333E0"/>
                <l>Of ſuch as ſchool'd in Life's ſad ſcene, too well,</l>
                <l>Had cheriſh'd ſcorn amid the wilds of woe,</l>
                <l>Or charm'd by SUICIDE'S <hi>opprobrious ſpell,</hi>
@@ -7675,7 +7675,7 @@ How ſweetly powerful to move,</l>
                <l>Moſt EXCELLENT WAS HE—then, too, a tear</l>
                <l>Dropp'd for her hallow'd DRYDEN'S injur'd bier;</l>
                <l>
-                  <pb n="231" facs="tcp:025807_0237_0FCF23BBEA9A4000"/>
+                  <pb n="231" facs="unknown:025807_0237_0FCF23BBEA9A4000"/>
 And OTWAY, luckleſs OTWAY! ſad ſhe view'd,</l>
                <l>Wither'd by deep diſtreſs, in anguiſh go</l>
                <l>To Death's dark cavern, through the gates of woe;</l>
@@ -7710,7 +7710,7 @@ And OTWAY, luckleſs OTWAY! ſad ſhe view'd,</l>
                   </note>
                </l>
                <l>
-                  <pb n="232" facs="tcp:025807_0238_0FCF23BDA66A9840"/>
+                  <pb n="232" facs="unknown:025807_0238_0FCF23BDA66A9840"/>
 Her laſt-loſt ſon, dead in thy very prime!</l>
                <l>Yet ſure among the friends who wiſh'd thee well,</l>
                <l>Sure one remains to tell</l>
@@ -7741,7 +7741,7 @@ Her laſt-loſt ſon, dead in thy very prime!</l>
                <l>Now the ſtrong meridian beam</l>
                <l>Downward pours a fiercer ſtream,</l>
                <l>
-                  <pb n="233" facs="tcp:025807_0239_0FCF23BF1F6356E0"/>
+                  <pb n="233" facs="unknown:025807_0239_0FCF23BF1F6356E0"/>
 And bounding o'er each ruſſet hill,</l>
                <l>MIRTH with LAUGHTER at his ſide,</l>
                <l>In jovial freak, and careleſs pride,</l>
@@ -7772,7 +7772,7 @@ And bounding o'er each ruſſet hill,</l>
                <l>Thus, her livelier numbers flow.</l>
             </lg>
             <lg>
-               <pb n="234" facs="tcp:025807_0240_0FCF23C08F5B2ED0"/>
+               <pb n="234" facs="unknown:025807_0240_0FCF23C08F5B2ED0"/>
                <l>" No longer my vot'ries ſhall deſolate rave,</l>
                <l>In the depth of the foreſt, or gloom of the grave,</l>
                <l>But far diff'rent cares ſhall they haſten to prove</l>
@@ -7804,7 +7804,7 @@ And bounding o'er each ruſſet hill,</l>
                <l>Child of the Tropic heat, and frozen North,</l>
             </lg>
             <lg>
-               <pb n="235" facs="tcp:025807_0241_0FCF23C397AE7448"/>
+               <pb n="235" facs="unknown:025807_0241_0FCF23C397AE7448"/>
                <l>In whoſe dull breaſt contraſted evils jar,</l>
                <l>And wage with Common Senſe perpetual war,</l>
                <l>Out-ſmiling truth, and e'en out-bluſhing ſhame,</l>
@@ -7834,7 +7834,7 @@ And bounding o'er each ruſſet hill,</l>
                <l>While Blockheads praiſe, what livelier Blockheads ſpoke,</l>
                <l>And nodding Nabobs analyze each joke</l>
                <l>
-                  <pb n="236" facs="tcp:025807_0242_0FCF23C53A2DAD40"/>
+                  <pb n="236" facs="unknown:025807_0242_0FCF23C53A2DAD40"/>
 O MODEST LIT'RATURE! muſt thou too feel</l>
                <l>Th' aſſaſſin vengeance of this tyrant's ſteel,</l>
                <l>Muſt thou no longer, liberal and free,</l>
@@ -7864,7 +7864,7 @@ O MODEST LIT'RATURE! muſt thou too feel</l>
                <l>TRIUMPHANT REASON, ſhed its potent ray,</l>
                <l>To drive diſtorted Prejudice away,</l>
                <l>
-                  <pb n="237" facs="tcp:025807_0243_0FCF23C731C29DF0"/>
+                  <pb n="237" facs="unknown:025807_0243_0FCF23C731C29DF0"/>
 Cheer the lone hamlet, the gay court illume,</l>
                <l>And BLESSING LIFE, BEATIFY THE TOMB!</l>
             </lg>
@@ -7894,7 +7894,7 @@ Cheer the lone hamlet, the gay court illume,</l>
                <l>The world's beſt joys like meteors ſeem,</l>
                <l>And all its boaſt a fading dream.</l>
                <l>
-                  <pb n="238" facs="tcp:025807_0244_0FCF23C8148BB078"/>
+                  <pb n="238" facs="unknown:025807_0244_0FCF23C8148BB078"/>
 Though at thy mandate Nature rears</l>
                <l>A wizard wand of hopes and fears,</l>
                <l>That as ſhe waves amid the blaze of day,</l>
@@ -7925,7 +7925,7 @@ Though at thy mandate Nature rears</l>
                <l>Giv'ſt to my tongue a liſt'ning ear,</l>
                <l>And ſteal'ſt upon this ſacred hour?</l>
                <l>
-                  <pb n="239" facs="tcp:025807_0245_0FCF23C9852DD610"/>
+                  <pb n="239" facs="unknown:025807_0245_0FCF23C9852DD610"/>
 PRESUMPTUOUS BARD! think not, from me,</l>
                <l>T' attract the glowing ſpark of energy,</l>
                <l>Or with frail touch, and imitative tone,</l>
@@ -7953,7 +7953,7 @@ PRESUMPTUOUS BARD! think not, from me,</l>
                <l>Or could his pen, with ſtrength ſublime,</l>
                <l>To high perfection lift the rhyme;—</l>
                <l>
-                  <pb n="240" facs="tcp:025807_0246_0FCF23CE5950CDF0"/>
+                  <pb n="240" facs="unknown:025807_0246_0FCF23CE5950CDF0"/>
 Or teach inſtructive truth to doubly pleaſe,</l>
                <l>With<note n="*" place="bottom">Mrs. HESTER LYNCH PIOZZI, a Lady well known for her Genius, and literary acquirements.</note> HESTER'S brilliant wit, and learned eaſe;</l>
                <l>Still would DUIL MALICE ſhout around,</l>
@@ -7981,7 +7981,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0247_0FCF23D028034558"/>
+            <pb facs="unknown:025807_0247_0FCF23D028034558"/>
             <head>SONNET. TO THE MUSE.</head>
             <lg>
                <l>CAELESTIAL ſpirit! who doſt deign to ſhed</l>
@@ -8010,7 +8010,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0248_0FCF23D12062E4C0"/>
+            <pb facs="unknown:025807_0248_0FCF23D12062E4C0"/>
             <head>SONNET. TO MELISSA's LIPS.</head>
             <lg>
                <l>DEAR balmy lips of her who holds my heart</l>
@@ -8035,7 +8035,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0249_0FCF23D467D357D0"/>
+            <pb facs="unknown:025807_0249_0FCF23D467D357D0"/>
             <head>SONNET. THE VALENTINE OF HOPELESS LOVE!</head>
             <lg>
                <l>WAK'D by the breath of ſpring, in ev'ry vale</l>
@@ -8060,7 +8060,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0250_0FCF23D59D978408"/>
+            <pb facs="unknown:025807_0250_0FCF23D59D978408"/>
             <head>SONNET. MELISSA's RETIREMENT.</head>
             <lg>
                <l>AH me! why heaves my breaſt with frequent ſighs?</l>
@@ -8085,7 +8085,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0251_0FCF23D70F08A9D0"/>
+            <pb facs="unknown:025807_0251_0FCF23D70F08A9D0"/>
             <head>SONNET. TO MAY.</head>
             <lg>
                <l>IN vain, ſoft May, thy fragrant flowers blow;</l>
@@ -8110,7 +8110,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0252_0FCF23D8B8308198"/>
+            <pb facs="unknown:025807_0252_0FCF23D8B8308198"/>
             <head>SONNET. TO MELISSA.</head>
             <lg>
                <l>WHEN E'ER thy angel-form ſalutes my eye,</l>
@@ -8135,7 +8135,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0253_0FCF23DA8FBFA590"/>
+            <pb facs="unknown:025807_0253_0FCF23DA8FBFA590"/>
             <head>SONNET. TO MELISSA.</head>
             <lg>
                <l>THROUGH all the woes which deſtiny ſevere,</l>
@@ -8162,7 +8162,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0254_0FCF23DBAF46D050"/>
+            <pb facs="unknown:025807_0254_0FCF23DBAF46D050"/>
             <head>SONNET. THE INVITATION.</head>
             <lg>
                <l>COME, dear Meliſſa, come, where<note n="*" place="bottom">A Brook in Kent.</note> 
@@ -8188,7 +8188,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0255_0FCF23DD36581818"/>
+            <pb facs="unknown:025807_0255_0FCF23DD36581818"/>
             <head>SONNET. MELISSA!</head>
             <lg>
                <l>HER dark-brown treſſes negligently flow</l>
@@ -8213,7 +8213,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0256_0FCF23DE8EB190F0"/>
+            <pb facs="unknown:025807_0256_0FCF23DE8EB190F0"/>
             <head>SONNET. TO THE RIVER USK, IN MONMOUTHSHIRE.</head>
             <lg>
                <l>OH, ſtream belov'd! within whoſe gelid caves,</l>
@@ -8238,7 +8238,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0257_0FCF23E0DA576498"/>
+            <pb facs="unknown:025807_0257_0FCF23E0DA576498"/>
             <head>SONNET. TO GENERAL ELLIOTT, ON HIS ARRIVAL FROM GIBRALTAR.</head>
             <lg>
                <l>THOUGH <hi>Gratitude</hi> no arch triumphal rears</l>
@@ -8263,7 +8263,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0258_0FCF23E3BA9A0B70"/>
+            <pb facs="unknown:025807_0258_0FCF23E3BA9A0B70"/>
             <head>PARTING ADDRESS TO DELLA CRUSCA.</head>
             <epigraph>
                <q>
@@ -8287,7 +8287,7 @@ Or teach inſtructive truth to doubly pleaſe,</l>
                <l>And if ſweet peace of mind can ever dwell</l>
                <l>Where <hi>Love, Almighty</hi> LOVE, has fix'd his ſpell,</l>
                <l>
-                  <pb n="253" facs="tcp:025807_0259_0FCF23E8EB0296F0"/>
+                  <pb n="253" facs="unknown:025807_0259_0FCF23E8EB0296F0"/>
 Be <hi>peace of mind,</hi> and every joy thy gueſt,</l>
                <l>While none but <hi>Love</hi>'s ſoft tranſports warm thy breaſt.</l>
                <l>And ſure, if DELLA CRUSCA ſhould once more,</l>
@@ -8311,7 +8311,7 @@ Be <hi>peace of mind,</hi> and every joy thy gueſt,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0260_0FCF23EA9BF98790"/>
+            <pb facs="unknown:025807_0260_0FCF23EA9BF98790"/>
             <head>THE AFRICAN BOY.</head>
             <lg>
                <l>AH, tell me, <hi>little mournful</hi> MOOR,</l>
@@ -8339,7 +8339,7 @@ Be <hi>peace of mind,</hi> and every joy thy gueſt,</l>
                <l>Triumphant comes, with ſwelling fails,</l>
                <l>'Mid ſmiling ſkies, and weſtern gales;</l>
                <l>
-                  <pb n="255" facs="tcp:025807_0261_0FCF23EC1A840A48"/>
+                  <pb n="255" facs="unknown:025807_0261_0FCF23EC1A840A48"/>
 They come with feſtive heart and glee.</l>
                <l>Their hands unſhackled—minds as free;</l>
                <l>They come at Mercy's great command,</l>
@@ -8371,7 +8371,7 @@ They come with feſtive heart and glee.</l>
                <l>The lofty bark ſhe now aſcends;</l>
                <l>With ſcreams of woe, the air ſhe rends:</l>
                <l>
-                  <pb n="256" facs="tcp:025807_0262_0FCF23EEF390E5B0"/>
+                  <pb n="256" facs="unknown:025807_0262_0FCF23EEF390E5B0"/>
 The veſſel leſs'ning from the ſhore,</l>
                <l>Her piteous wails I heard no more</l>
                <l>Now as I ſtretch'd my laſt ſurvey,</l>
@@ -8395,7 +8395,7 @@ The veſſel leſs'ning from the ſhore,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0263_0FCF23EFE22512D8"/>
+            <pb facs="unknown:025807_0263_0FCF23EFE22512D8"/>
             <head>TO MISS FARREN, ON HER BEING ABSENT FROM CHURCH.</head>
             <lg>
                <l>WHILE wond'ring Angels, as they look'd from high,</l>
@@ -8412,7 +8412,7 @@ The veſſel leſs'ning from the ſhore,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0264_0FCF23F1478D9418"/>
+            <pb facs="unknown:025807_0264_0FCF23F1478D9418"/>
             <head>THE VOICE WE LOVE.</head>
             <lg>
                <l>SOFT is the Zephyr's breezy wing;</l>
@@ -8438,7 +8438,7 @@ The veſſel leſs'ning from the ſhore,</l>
                <l>Attend awhile, the ſoft impaſſion'd lyre,</l>
                <l>That melts the frozen heart, and kindles fond deſire.</l>
                <l>
-                  <pb n="259" facs="tcp:025807_0265_0FCF23F2C7020970"/>
+                  <pb n="259" facs="unknown:025807_0265_0FCF23F2C7020970"/>
 SIMPLICITY, thy ſteps ſhall lead,</l>
                <l>To the ſimple, verdant mead;</l>
                <l>For to humble plains belong</l>
@@ -8470,7 +8470,7 @@ SIMPLICITY, thy ſteps ſhall lead,</l>
                <l>Of all the rapt melodious tones,</l>
                <l>That <hi>Heaven-deſcended</hi> MUSIC owns,</l>
                <l>
-                  <pb n="260" facs="tcp:025807_0266_0FCF23F5F3EB07E8"/>
+                  <pb n="260" facs="unknown:025807_0266_0FCF23F5F3EB07E8"/>
 Recal the dear, the magic ſtrain,</l>
                <l>That ſeem'd to vib'rate on thine heart,</l>
                <l>And could a tranſient joy impart,</l>
@@ -8487,7 +8487,7 @@ Recal the dear, the magic ſtrain,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0267_0FCF23FCD34CB068"/>
+            <pb facs="unknown:025807_0267_0FCF23FCD34CB068"/>
             <head>HENRY DECEIVED.</head>
             <lg>
                <l>GOD OF THE BOW! how <hi>blind</hi> art thou</l>
@@ -8513,7 +8513,7 @@ Recal the dear, the magic ſtrain,</l>
                <l>But now—oh dull of eye and heart!</l>
                <l>Thou know'ſt not WHENCE Love's ardours ſtart;</l>
                <l>
-                  <pb n="262" facs="tcp:025807_0268_0FCF23FF2FB27AD0"/>
+                  <pb n="262" facs="unknown:025807_0268_0FCF23FF2FB27AD0"/>
 And when ſtiff **'s lines appear,</l>
                <l>Thou whiſper'ſt in my HENRY'S ear</l>
                <l>That they are EMMA'S!!</l>
@@ -8544,7 +8544,7 @@ And when ſtiff **'s lines appear,</l>
                <l>My fancy pictur'd richer notes than fell</l>
                <l>From him of old, who to the verge of hell</l>
                <l>
-                  <pb n="263" facs="tcp:025807_0269_0FCF2400579A1958"/>
+                  <pb n="263" facs="unknown:025807_0269_0FCF2400579A1958"/>
 Led forth the wife he lov'd;—but ah! when read,</l>
                <l>Mad jealouſy, and childiſh envy fled;</l>
                <l>The harmleſs lines I ſaw, without one ſigh,</l>
@@ -8576,7 +8576,7 @@ Led forth the wife he lov'd;—but ah! when read,</l>
                <l>Round THEE my living Lays for ever, ever twine!</l>
             </lg>
             <lg>
-               <pb n="264" facs="tcp:025807_0270_0FCF2401DDF20FB8"/>
+               <pb n="264" facs="unknown:025807_0270_0FCF2401DDF20FB8"/>
                <l>If <hi>Verſe deſcriptive</hi> warms thy heart,</l>
                <l>If <hi>that,</hi> bids throbs of Paſſion ſtart,</l>
                <l>
@@ -8607,7 +8607,7 @@ Led forth the wife he lov'd;—but ah! when read,</l>
                <l>Through thirty years drives torpid on,</l>
                <l>And all theſe Summers counts as ONE.</l>
                <l>
-                  <pb n="265" facs="tcp:025807_0271_0FCF240430C38928"/>
+                  <pb n="265" facs="unknown:025807_0271_0FCF240430C38928"/>
 Bid Thee regard almoſt with ſcorn</l>
                <l>Our <hi>trifling Syſtem;</hi>—where is borne</l>
                <l>In fond Attraction's airy chain</l>
@@ -8639,7 +8639,7 @@ Bid Thee regard almoſt with ſcorn</l>
                <l>All TRUTH or FICTION e'er could lend</l>
                <l>To elevate the Lay.</l>
                <l>
-                  <pb n="266" facs="tcp:025807_0272_0FCF24058686DA48"/>
+                  <pb n="266" facs="unknown:025807_0272_0FCF24058686DA48"/>
 Though all APOLLO'S fire ſhould ſeem</l>
                <l>T' illume the Page with ſacred beam,</l>
                <l>And bleſs the Bard with bayes—</l>
@@ -8653,7 +8653,7 @@ Though all APOLLO'S fire ſhould ſeem</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0273_0FCF240807AE33A8"/>
+            <pb facs="unknown:025807_0273_0FCF240807AE33A8"/>
             <head>TO EMMA.</head>
             <lg>
                <l>WAS it the SHUTTLE of the MORN</l>
@@ -8678,7 +8678,7 @@ Though all APOLLO'S fire ſhould ſeem</l>
                <l>Ah! ſure, not even Death's cold ſpell</l>
                <l>Could the fierce fury of my paſſion quell!</l>
                <l>
-                  <pb n="268" facs="tcp:025807_0274_0FCF2409C7FC8288"/>
+                  <pb n="268" facs="unknown:025807_0274_0FCF2409C7FC8288"/>
 But ſpringing from this earthly droſs,</l>
                <l>Far, to the winds, my cares I'd toſs,</l>
                <l>And ſwear, before the living Shrine</l>
@@ -8709,7 +8709,7 @@ But ſpringing from this earthly droſs,</l>
                <l>Then let the HARP thy mad touch prove,</l>
                <l>And SING—and SING AGAIN—of LOVE</l>
                <l>
-                  <pb n="269" facs="tcp:025807_0275_0FCF240AF2E5F3F8"/>
+                  <pb n="269" facs="unknown:025807_0275_0FCF240AF2E5F3F8"/>
 Sing—till FAINT EVENING drops to reſt,</l>
                <l>On WEEPING TWILIGHT'S DOWNY BREAST;</l>
                <l>Till grey-hair'd MELANCHOLY DAWN,</l>
@@ -8726,7 +8726,7 @@ Sing—till FAINT EVENING drops to reſt,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0276_0FCF240D37C02BC8"/>
+            <pb facs="unknown:025807_0276_0FCF240D37C02BC8"/>
             <head>We preſerve the following poetry in this Edition for TWO reaſons. It was the FIRST poetic Offering ever made to the Memory of the UNFORTUNATE it mourns; and becauſe it came from a pen whoſe fer<g ref="char:EOLhyphen"/>vor and tenderneſs would prove it, without a Signature, to be that of ANNA MATILDA.</head>
             <head>MONOLOGUE.</head>
             <lg>
@@ -8749,7 +8749,7 @@ Sing—till FAINT EVENING drops to reſt,</l>
                <l>In whoſe dear cave no Muſe e'er ſtruck the lyre,</l>
                <l>Nor Bard e'er <hi>madden'd</hi> with poetic fire;</l>
                <l>
-                  <pb n="271" facs="tcp:025807_0277_0FCF24106335B7B8"/>
+                  <pb n="271" facs="unknown:025807_0277_0FCF24106335B7B8"/>
 Why all thy ſpells for CHATTERTON combine?</l>
                <l>His thought <hi>creative,</hi> why muſt thou confine?</l>
                <l>Subdu'd by thee; his pen no more obeys,</l>
@@ -8782,7 +8782,7 @@ Why all thy ſpells for CHATTERTON combine?</l>
                <l>No ſorrowing <hi>friend,</hi> no <hi>ſiſter, parent,</hi> nigh,</l>
                <l>To ſooth his pangs, or catch his patting ſigh;</l>
                <l>
-                  <pb n="272" facs="tcp:025807_0278_0FCF2412F0668890"/>
+                  <pb n="272" facs="unknown:025807_0278_0FCF2412F0668890"/>
 Alone, <hi>unknown,</hi> the Muſes' darling dies,</l>
                <l>And with the vulgar dead unnoted lies!</l>
                <l>Bright ſtar of Genius!—torn from life and fame,</l>
@@ -8793,7 +8793,7 @@ Alone, <hi>unknown,</hi> the Muſes' darling dies,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0279_0FCF24149C91FED0"/>
+            <pb facs="unknown:025807_0279_0FCF24149C91FED0"/>
             <head>A FRAGMENT. ADDRESSED TO ***.</head>
             <lg>
                <l>TOUCH'D by thy wit my ſoul's on fire,</l>
@@ -8816,7 +8816,7 @@ Alone, <hi>unknown,</hi> the Muſes' darling dies,</l>
                <l>When in a penſive mood I ſit,</l>
                <l>And Melancholy takes her fit,</l>
                <l>
-                  <pb n="274" facs="tcp:025807_0280_0FCF24162FBFF7F0"/>
+                  <pb n="274" facs="unknown:025807_0280_0FCF24162FBFF7F0"/>
 Mild, tender, ſoft, thou ſhalt appear,</l>
                <l>Like the firſt bloſſoms of the year:</l>
                <l>But when in briſker tides my ſpirits run,</l>
@@ -8833,7 +8833,7 @@ Mild, tender, ſoft, thou ſhalt appear,</l>
             </postscript>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0281_0FCF2417C145FD20"/>
+            <pb facs="unknown:025807_0281_0FCF2417C145FD20"/>
             <head>The following Lines were addreſſed to Mr. HUMPHREY, the celebrated Miniature Painter, on his PORTRAIT OF MISS FARREN.</head>
             <byline>BY LORD DERBY.</byline>
             <lg>
@@ -8856,7 +8856,7 @@ Mild, tender, ſoft, thou ſhalt appear,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0282_0FCF241911B99900"/>
+            <pb facs="unknown:025807_0282_0FCF241911B99900"/>
             <head>GENERAL CONWAY's ELEGY ON THE DEATH OF MISS CAROLINE CAMPBELL, Daughter of the RIGHT HON. WILLIAM CAMPBELL.</head>
             <lg>
                <l>SINCE 'tis the will of all-diſpoſing Heav'n,</l>
@@ -8872,7 +8872,7 @@ Mild, tender, ſoft, thou ſhalt appear,</l>
                <l>Accept the heaving ſigh, the trickling tear;</l>
                <l>The laſt, beſt offerings of a heart ſincere.</l>
                <l>
-                  <pb n="277" facs="tcp:025807_0283_0FCEEFED289E77D0"/>
+                  <pb n="277" facs="unknown:025807_0283_0FCEEFED289E77D0"/>
 What tho' no coſtly hecatcombs ſhould bleed,</l>
                <l>Nor lengthen'd train in ſable pomp ſucceed;</l>
                <l>Yet ſhall the ſweeteſt flow'rs thy grave adorn,</l>
@@ -8905,7 +8905,7 @@ What tho' no coſtly hecatcombs ſhould bleed,</l>
                <l>The purer aether gains its native ſky.</l>
             </lg>
             <lg>
-               <pb n="278" facs="tcp:025807_0284_0FCF241EAE3CDA60"/>
+               <pb n="278" facs="unknown:025807_0284_0FCF241EAE3CDA60"/>
                <l>Ere the ſtern Siſters cut the vital thread,</l>
                <l>I ſaw, and kiſs'd her on the fatal bed,</l>
                <l>Juſt as her gentle ſpirit took its flight,</l>
@@ -8935,7 +8935,7 @@ What tho' no coſtly hecatcombs ſhould bleed,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0285_0FCF241FC4F0DCB0"/>
+            <pb facs="unknown:025807_0285_0FCF241FC4F0DCB0"/>
             <head>EPITAPH ON MISS CAROLINE CAMPBELL.</head>
             <lg>
                <l>O <hi>penſive</hi> PASSENGER! do not deny</l>
@@ -8957,7 +8957,7 @@ What tho' no coſtly hecatcombs ſhould bleed,</l>
                <l>In faded ſemblance of the Silver Roſe.</l>
             </lg>
             <lg>
-               <pb n="280" facs="tcp:025807_0286_0FCF24246BEDED08"/>
+               <pb n="280" facs="unknown:025807_0286_0FCF24246BEDED08"/>
                <l>And oft low bending o'er this hallow'd ground,</l>
                <l>Shall the <hi>pure Angel,</hi> INNOCENCE appear;</l>
                <l>And FRIENDSHIP, like a <hi>Hermit,</hi> ſhall be found,</l>
@@ -8968,7 +8968,7 @@ What tho' no coſtly hecatcombs ſhould bleed,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0287_0FCF2425C9504AE8"/>
+            <pb facs="unknown:025807_0287_0FCF2425C9504AE8"/>
             <head>MARQUIS TOWNSHEND's VERSES ON HIS NIECE MISS GARDINER.</head>
             <lg>
                <l>As late FLORINDA on her death-bed lay,</l>
@@ -8989,14 +8989,14 @@ What tho' no coſtly hecatcombs ſhould bleed,</l>
             </lg>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:025807_0288_0FCF2428E0AF14A8"/>
+            <pb facs="unknown:025807_0288_0FCF2428E0AF14A8"/>
             <head>Advertiſement.</head>
             <p>
                <hi>Since the Printing of the firſt Edition of theſe Works, the Correſpondence between DELLA CRUSCA and ANNA MATILDA has been renewed;—THE EDITOR, therefore, thinks it proper to continue their reſpective Writings up to the preſent time; as alſo to inſert the beauti<g ref="char:EOLhyphen"/>ful Poems by LAURA, and the one ſhe called forth from LEONARDO, &amp;c. Theſe latter Additions are neceſſary, on account of the ſub<g ref="char:EOLhyphen"/>ſequent alluſions to them, and becauſe the lines ſigned LEONARDO appear to have been pro<g ref="char:EOLhyphen"/>duced by the pen of DELLA CRUSCA.</hi>
             </p>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0289_0FCF242A55A828B0"/>
+            <pb facs="unknown:025807_0289_0FCF242A55A828B0"/>
             <head>TO ANNA MATILDA.</head>
             <lg>
                <l>IN VAIN I FLY THEE—'tis in vain,</l>
@@ -9022,7 +9022,7 @@ What tho' no coſtly hecatcombs ſhould bleed,</l>
                   <hi>Seated in chryſtal roſeate tow'r,</hi>
                </l>
                <l>
-                  <pb n="284" facs="tcp:025807_0290_0FCF242C1F140A18"/>
+                  <pb n="284" facs="unknown:025807_0290_0FCF242C1F140A18"/>
                   <hi>I ſaw the Goddeſs Health purſue</hi>
                </l>
                <l>
@@ -9050,7 +9050,7 @@ What tho' no coſtly hecatcombs ſhould bleed,</l>
                <l>On which the winged, am'rous Boy</l>
                <l>Has freely wept with tears of joy—</l>
                <l>
-                  <pb n="285" facs="tcp:025807_0291_0FCF242D4DD38D00"/>
+                  <pb n="285" facs="unknown:025807_0291_0FCF242D4DD38D00"/>
 And binding ſoft her fav'rite's brows,</l>
                <l>She mingles her too-tender vows.</l>
                <l>Hence ſounds ſevere!—no more intrude—</l>
@@ -9081,7 +9081,7 @@ And binding ſoft her fav'rite's brows,</l>
                <l>And as my faithful voice I raiſe,</l>
                <l>With all the fervency of praiſe,</l>
                <l>
-                  <pb n="286" facs="tcp:025807_0292_0FCF2430F7931CA0"/>
+                  <pb n="286" facs="unknown:025807_0292_0FCF2430F7931CA0"/>
 O may I lure thee from thy ſecret bow'r</l>
                <l>To cheer once more my melancholy hour—</l>
                <l>So ſhall I grateful bleſs ſtrong Fate's decree,</l>
@@ -9096,7 +9096,7 @@ O may I lure thee from thy ſecret bow'r</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0293_0FCF2433C9E32C78"/>
+            <pb facs="unknown:025807_0293_0FCF2433C9E32C78"/>
             <head>TO HIM WHO WILL UNDERSTAND IT.</head>
             <lg>
                <l>THOU art no more my boſom's Friend;</l>
@@ -9121,7 +9121,7 @@ O may I lure thee from thy ſecret bow'r</l>
                <l>Each gleam of joy through life's ſad day.</l>
             </lg>
             <lg>
-               <pb n="288" facs="tcp:025807_0294_0FCF2497F8DD6368"/>
+               <pb n="288" facs="unknown:025807_0294_0FCF2497F8DD6368"/>
                <l>BRITAIN, farewel! I quit thy ſhore;</l>
                <l>My Native Country charms no more;</l>
                <l>No guide, to mark the toilſome road,</l>
@@ -9153,7 +9153,7 @@ O may I lure thee from thy ſecret bow'r</l>
                <l>Shall bid remembrance PICTURE THEE.</l>
             </lg>
             <lg>
-               <pb n="289" facs="tcp:025807_0295_0FCEF002F5DA83A8"/>
+               <pb n="289" facs="unknown:025807_0295_0FCEF002F5DA83A8"/>
                <l>Yes, I ſhall VIEW THEE in each flow'r</l>
                <l>That changes with the tranſient hour;</l>
                <l>Thy wand'ring fancy I ſhall find</l>
@@ -9183,7 +9183,7 @@ O may I lure thee from thy ſecret bow'r</l>
                <l>Sweet LAND of MELODY, 'tis thine</l>
                <l>The ſofteſt paſſions to refine;</l>
                <l>
-                  <pb n="290" facs="tcp:025807_0296_0FCEF004BA80F1A8"/>
+                  <pb n="290" facs="unknown:025807_0296_0FCEF004BA80F1A8"/>
 Thy myrtle groves thy melting ſtrains,</l>
                <l>Shall harmonize and ſooth my pains.</l>
                <l>Nor will I caſt one thought behind,</l>
@@ -9209,7 +9209,7 @@ Thy myrtle groves thy melting ſtrains,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0297_0FCEF0066314E560"/>
+            <pb facs="unknown:025807_0297_0FCEF0066314E560"/>
             <head>TO LAURA.</head>
             <lg>
                <l>LAURA! I heard thy warbled woes,</l>
@@ -9235,7 +9235,7 @@ Thy myrtle groves thy melting ſtrains,</l>
                <l>Have watch'd the look of languor caſt,</l>
                <l>To ſhew the rig'rous hour was paſt:</l>
                <l>
-                  <pb n="292" facs="tcp:025807_0298_0FCEF00760C1FC80"/>
+                  <pb n="292" facs="unknown:025807_0298_0FCEF00760C1FC80"/>
 Then have I preſs'd the bluſhing Fair,</l>
                <l>With pangs—how diff'rent from deſpair!</l>
                <l>Yet was the bliſs ſo pure, ſo chaſte,</l>
@@ -9265,7 +9265,7 @@ Then have I preſs'd the bluſhing Fair,</l>
                <l>Where TREACH'RY reigns, and baſe DIS<g ref="char:EOLhyphen"/>GUISE,</l>
                <l>And MURDER—looking to the Skies,</l>
                <l>
-                  <pb n="293" facs="tcp:025807_0299_0FCEF017E2DFC7B8"/>
+                  <pb n="293" facs="unknown:025807_0299_0FCEF017E2DFC7B8"/>
 While ſordid SELFISHNESS appears</l>
                <l>In low redundancy of ſears.</l>
                <l>O! what can MUSIC's voice beſtow,</l>
@@ -9298,7 +9298,7 @@ While ſordid SELFISHNESS appears</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0300_0FCEF03B6728DF30"/>
+            <pb facs="unknown:025807_0300_0FCEF03B6728DF30"/>
             <head>TO DELLA CRUSCA.</head>
             <epigraph>
                <q>
@@ -9328,7 +9328,7 @@ While ſordid SELFISHNESS appears</l>
                <l>And when thy Poetry ſo ſweet</l>
                <l>Shall next my wand'ring glances meet,</l>
                <l>
-                  <pb n="295" facs="tcp:025807_0301_0FCEF079784B8B78"/>
+                  <pb n="295" facs="unknown:025807_0301_0FCEF079784B8B78"/>
 I'll ſpare a ſigh to moments fled—</l>
                <l>But ANNA ſhall to thee be dead.</l>
                <l>See—to my couch I laughing turn—</l>
@@ -9361,7 +9361,7 @@ I'll ſpare a ſigh to moments fled—</l>
                <l>Thou ſtand'ſt conſeſt!—thy form is ſeen.</l>
             </lg>
             <lg>
-               <pb n="296" facs="tcp:025807_0302_0FCEF07AF15A8D50"/>
+               <pb n="296" facs="unknown:025807_0302_0FCEF07AF15A8D50"/>
                <l>Yes, write to LAURA! ſpeed thy ſighs,</l>
                <l>Tell her, her DELLA CRUSCA dies;</l>
                <l>In ſweeteſt meaſures ſing thy woes,</l>
@@ -9393,7 +9393,7 @@ I'll ſpare a ſigh to moments fled—</l>
                <l>O! wondrous magic! ſhall great Labour's name,</l>
                <l>Remain unhallow'd by the voice of Fame?</l>
                <l>
-                  <pb n="297" facs="tcp:025807_0303_0FCF243598A96A60"/>
+                  <pb n="297" facs="unknown:025807_0303_0FCF243598A96A60"/>
 CREATIVE LABOUR! whoſe all-bounteous hand</l>
                <l>Drops flow'rs, and fruits, and foreſts o'er the land;</l>
                <l>Who bids th' indented river curving fly,</l>
@@ -9423,7 +9423,7 @@ CREATIVE LABOUR! whoſe all-bounteous hand</l>
                <l>Phophetic, thus his future hiſt'ry read,</l>
                <l>And wreath'd it in the laurels for his head:</l>
                <l>
-                  <pb n="298" facs="tcp:025807_0304_0FCF24379383D1B0"/>
+                  <pb n="298" facs="unknown:025807_0304_0FCF24379383D1B0"/>
 "If falſe, thou e'er MATILDA'S heart ſhould'ſt wring,</l>
                <l>And to another nymph preſume to ſing,</l>
                <l>My inſpiration thou no more ſhalt know,</l>
@@ -9440,7 +9440,7 @@ CREATIVE LABOUR! whoſe all-bounteous hand</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0305_0FCF243A0D9D0028"/>
+            <pb facs="unknown:025807_0305_0FCF243A0D9D0028"/>
             <head>LAURA TO ANNA MATILDA.</head>
             <lg>
                <l>O ANNA, ſince thy graceful ſong</l>
@@ -9460,7 +9460,7 @@ CREATIVE LABOUR! whoſe all-bounteous hand</l>
                <l>Subdue the haggard WITCH, whoſe em'rald eye</l>
                <l>Darts fell Revenge, and pois'ning Jealouſy;</l>
                <l>
-                  <pb n="300" facs="tcp:025807_0306_0FCF243D72A37C58"/>
+                  <pb n="300" facs="unknown:025807_0306_0FCF243D72A37C58"/>
 Mark, where amidſt her ebon hair,</l>
                <l>The ſcaly ſerpents mingling twine</l>
                <l>While darting thro' th' infected air,</l>
@@ -9495,7 +9495,7 @@ Mark, where amidſt her ebon hair,</l>
                <l>Yet let me DELLA CRUSCA'S lays admire,</l>
                <l>Still gaze with hallow'd rapture on his ſire;</l>
                <l>
-                  <pb n="301" facs="tcp:025807_0307_0FCF24401396B5A0"/>
+                  <pb n="301" facs="unknown:025807_0307_0FCF24401396B5A0"/>
 Liſt his ſoft tones of melting mood,</l>
                <l>Sweeter than Ringdove ever coo'd,</l>
                <l>Tuneful as METASTASIO'S tongue,</l>
@@ -9528,7 +9528,7 @@ Liſt his ſoft tones of melting mood,</l>
                <l>The "brew'd enchantment's" poiſon fell!</l>
                <l>The mellow grape's nectareous juice</l>
                <l>
-                  <pb n="302" facs="tcp:025807_0308_0FCF244186914A28"/>
+                  <pb n="302" facs="unknown:025807_0308_0FCF244186914A28"/>
 Suits the baſe mind; its baleful uſe</l>
                <l>Throws o'er the ſenſe, a torpid ſpell.</l>
             </lg>
@@ -9547,7 +9547,7 @@ Suits the baſe mind; its baleful uſe</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0309_0FCF244305A85958"/>
+            <pb facs="unknown:025807_0309_0FCF244305A85958"/>
             <head>TO ANNA MATILDA.</head>
             <epigraph>
                <q>
@@ -9573,7 +9573,7 @@ Suits the baſe mind; its baleful uſe</l>
                <l>Can <hi>that</hi> be chang'd to anger? canſt thou doom</l>
                <l>My future wiſh to dwell upon the tomb?</l>
                <l>
-                  <pb n="304" facs="tcp:025807_0310_0FCF2444A3E06708"/>
+                  <pb n="304" facs="unknown:025807_0310_0FCF2444A3E06708"/>
 Canſt thou, SO KEEN OF FEELING! urge my fate</l>
                <l>And bid me mourn thee, yes, and MOURN TOO LATE?</l>
                <l>O raſh ſevere decree! my madd'ning brain</l>
@@ -9604,7 +9604,7 @@ Canſt thou, SO KEEN OF FEELING! urge my fate</l>
                <l>That ſtern MATILDA ſpoke—MATILDA! moſt ador'd!</l>
             </lg>
             <lg>
-               <pb n="305" facs="tcp:025807_0311_0FCF24462721B728"/>
+               <pb n="305" facs="unknown:025807_0311_0FCF24462721B728"/>
                <l>When at the laſt year's cloſe of May,</l>
                <l>From thy ſweet chains I burſt away,</l>
                <l>And daſh'd my woe-worn Harp upon the ground,</l>
@@ -9636,7 +9636,7 @@ Canſt thou, SO KEEN OF FEELING! urge my fate</l>
                <l>And wond'ring, NOT DECEIV'D, I breath'd the friendly vow.</l>
             </lg>
             <lg>
-               <pb n="306" facs="tcp:025807_0312_0FCF244ADD653CF0"/>
+               <pb n="306" facs="unknown:025807_0312_0FCF244ADD653CF0"/>
                <l>If I have wrong'd thee, my hot tears</l>
                <l>Shall melt thy rage, or flow for years;</l>
                <l>For oh! till then my days ſhall go</l>
@@ -9668,7 +9668,7 @@ Canſt thou, SO KEEN OF FEELING! urge my fate</l>
                <l>So the faint colours of my mimic lays,</l>
                <l>Drew their falſe luſtre from MATILDA'S blaze;</l>
                <l>
-                  <pb n="307" facs="tcp:025807_0313_0FCF244E5DDAA788"/>
+                  <pb n="307" facs="unknown:025807_0313_0FCF244E5DDAA788"/>
 But ſoon the tints ſhall vaniſh—'tis decreed,</l>
                <l>And endleſs darkneſs come, if SHE recede.</l>
                <l>THEN HEAR MY WORD, by that fierce Orb,</l>
@@ -9693,7 +9693,7 @@ But ſoon the tints ſhall vaniſh—'tis decreed,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0314_0FCF245238E53B38"/>
+            <pb facs="unknown:025807_0314_0FCF245238E53B38"/>
             <head>TO DELLA CRUSCA.</head>
             <lg>
                <l>AMBIGUOUS NATURE form'd the <hi>female heart</hi>
@@ -9721,7 +9721,7 @@ But ſoon the tints ſhall vaniſh—'tis decreed,</l>
                <l>In my yet darker mind thy beam infuſe,</l>
                <l>And let me feel the high-inſpiring muſe:</l>
                <l>
-                  <pb n="309" facs="tcp:025807_0315_0FCF24538D70C3F0"/>
+                  <pb n="309" facs="unknown:025807_0315_0FCF24538D70C3F0"/>
 Give me one ſpark of DELLA CRUSCA'S light,</l>
                <l>Teach me like him to <hi>think</hi>—to paint—to write!</l>
                <l>Pour on my pen his rich abounding lay,</l>
@@ -9753,7 +9753,7 @@ Give me one ſpark of DELLA CRUSCA'S light,</l>
                <l>"<hi>Preſumptuous</hi> ANNA!" was the ſtern reply</l>
                <l>From HIM, who rolls day's orbit through the ſky,</l>
                <l>
-                  <pb n="310" facs="tcp:025807_0316_0FCF245509B03D68"/>
+                  <pb n="310" facs="unknown:025807_0316_0FCF245509B03D68"/>
 "The mighty boon thou'ſt aſk'd ſhall ne'er be thine;</l>
                <l>PARNASSUS <hi>hear!</hi> record the oath divine!</l>
                <l>Yet more—to puniſh thy aſpiriring hope</l>
@@ -9789,7 +9789,7 @@ Give me one ſpark of DELLA CRUSCA'S light,</l>
                <l>Exude ſoft balm upon the wind,</l>
                <l>And all their mingled ſweets unbind;</l>
                <l>
-                  <pb n="311" facs="tcp:025807_0317_0FCF245688564AE8"/>
+                  <pb n="311" facs="unknown:025807_0317_0FCF245688564AE8"/>
 Yet ſhall <hi>ſad</hi> ANNA never know</l>
                <l>The boundleſs ſweets which round her flow.</l>
                <l>Whether the MOUNTAIN'S <hi>breath</hi> I drink,</l>
@@ -9821,7 +9821,7 @@ Yet ſhall <hi>ſad</hi> ANNA never know</l>
                <l>But ſhall not DELLA CRUSCA ſue</l>
                <l>For her who to HIS MUSE is true?</l>
                <l>
-                  <pb n="312" facs="tcp:025807_0318_0FCF245805CB3B08"/>
+                  <pb n="312" facs="unknown:025807_0318_0FCF245805CB3B08"/>
                   <hi>For</hi> ONE who round her heart hath wreath'd</l>
                <l>All the rich ſtrains he ever breath'd;—</l>
                <l>Will HE not ſtrive to break th' avenging rod?—</l>
@@ -9835,7 +9835,7 @@ Yet ſhall <hi>ſad</hi> ANNA never know</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0319_0FCF245A047B1070"/>
+            <pb facs="unknown:025807_0319_0FCF245A047B1070"/>
             <head>THE INTERVIEW.</head>
             <lg>
                <l>O WE HAVE MET, and now I call</l>
@@ -9859,7 +9859,7 @@ Yet ſhall <hi>ſad</hi> ANNA never know</l>
                <l>Nor <hi>then</hi> on joys gone by, my Mem'ry dwelt,</l>
                <l>Nor all the pangs which wounded Friendſhip felt;</l>
                <l>
-                  <pb n="314" facs="tcp:025807_0320_0FCF245C8C11DFD0"/>
+                  <pb n="314" facs="unknown:025807_0320_0FCF245C8C11DFD0"/>
 But ANNA, tho' <hi>unknown,</hi> uſurp'd my mind,</l>
                <l>
                   <hi>Alone</hi> ſhe claim'd the tributary tear,</l>
@@ -9922,7 +9922,7 @@ But ANNA, tho' <hi>unknown,</hi> uſurp'd my mind,</l>
                <l>A <hi>living</hi> Angel bleſs'd my ſight,</l>
                <l>Strung ev'ry nerve to new delight,</l>
                <l>
-                  <pb n="315" facs="tcp:025807_0321_0FCF2460DF4AD958"/>
+                  <pb n="315" facs="unknown:025807_0321_0FCF2460DF4AD958"/>
 With joy's full tide bedew'd my cheek,</l>
                <l>'Twas ANNA'S ſelf I ſaw, NOR HAD I POW'R TO SPEAK.</l>
                <l>O then I led her to the woven bow'r,</l>
@@ -9952,7 +9952,7 @@ With joy's full tide bedew'd my cheek,</l>
                <l>For whom, full oft, I've loiter'd to rehearſe</l>
                <l>In phrenzied mood the deep impaſſion'd verſe,</l>
                <l>
-                  <pb n="316" facs="tcp:025807_0322_0FCF2462A5825350"/>
+                  <pb n="316" facs="unknown:025807_0322_0FCF2462A5825350"/>
 Ill-fated Bard! from each frail hope remove,</l>
                <l>And ſhun the certain Suicide of Love:</l>
                <l>Lean not to me, <hi>th' impaſſion'd verſe is o'er,</hi>
@@ -10023,7 +10023,7 @@ Ill-fated Bard! from each frail hope remove,</l>
                   <hi>Skimming o'er bending blooms, and ruſſet ſheaves,</hi>
                </l>
                <l>
-                  <pb n="317" facs="tcp:025807_0323_0FCF246420F339F8"/>
+                  <pb n="317" facs="unknown:025807_0323_0FCF246420F339F8"/>
 MATILDA <hi>fled! the cloſing Night purſu'd,</hi>
                </l>
                <l>
@@ -10064,7 +10064,7 @@ MATILDA <hi>fled! the cloſing Night purſu'd,</hi>
                <l>HE never knew the loftier bliſs, to rave,</l>
                <l>Without a pow'r to aid, a chance to ſave;</l>
                <l>
-                  <pb n="318" facs="tcp:025807_0324_0FCF24659502DC48"/>
+                  <pb n="318" facs="unknown:025807_0324_0FCF24659502DC48"/>
 HE never bath'd him in the Nightſhade's dew,</l>
                <l>Nor drank the pois'nous meteors as they flew,</l>
                <l>Nor told his rending ſtory to the Moon,</l>
@@ -10094,7 +10094,7 @@ HE never bath'd him in the Nightſhade's dew,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0325_0FCF2467C7594D48"/>
+            <pb facs="unknown:025807_0325_0FCF2467C7594D48"/>
             <head>TO PHILANDER,<note n="*" place="bottom">This Poem was, in the former Editions, addreſſed to DELLA CRUSCA.</note>
 Who ſaid, "WHEN I AM DEAD, WRITE MY ELEGY</head>
             <epigraph>
@@ -10120,7 +10120,7 @@ Who ſaid, "WHEN I AM DEAD, WRITE MY ELEGY</head>
                <l>And ſhould a lingering Star with glittering beam,</l>
                <l>Send thro' the air its ſilvery ſtream,</l>
                <l>
-                  <pb n="320" facs="tcp:025807_0326_0FCF24689082AF40"/>
+                  <pb n="320" facs="unknown:025807_0326_0FCF24689082AF40"/>
 I'd tell it that PHILANDER WAS NO MORE—</l>
                <l>Strait would its glittering beam be ſad;</l>
                <l>And the wide heavens in darkneſs clad</l>
@@ -10149,7 +10149,7 @@ I'd tell it that PHILANDER WAS NO MORE—</l>
                <l>No! I would ſcorn to weep. The glorious grief</l>
                <l>Should gorge upon my heart, and ſpurn relief.</l>
                <l>
-                  <pb n="321" facs="tcp:025807_0327_0FCF246A878ED468"/>
+                  <pb n="321" facs="unknown:025807_0327_0FCF246A878ED468"/>
                   <hi>How</hi> I would write of dear PHILANDER dead!</l>
                <l>O! I would weave ſuch verſe, that round my head</l>
                <l>The Demons of the Night,</l>
@@ -10182,7 +10182,7 @@ I'd tell it that PHILANDER WAS NO MORE—</l>
                <l>Would ſhake my ſoul, till in th' extreme</l>
                <l>Of ſtrong ſenſation every nerve would break;</l>
                <l>
-                  <pb n="322" facs="tcp:025807_0328_0FCF246B83CFBD10"/>
+                  <pb n="322" facs="unknown:025807_0328_0FCF246B83CFBD10"/>
 Yet having then fulfil'd my taſk,</l>
                <l>
                   <hi>Done,</hi> what <hi>laſt night'</hi>s ſoft ſhadows heard him aſk,</l>
@@ -10211,7 +10211,7 @@ Yet having then fulfil'd my taſk,</l>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025807_0329_0FCF246FF2C75808"/>
+            <pb facs="unknown:025807_0329_0FCF246FF2C75808"/>
             <head>TO A—E B—N.</head>
             <lg>
                <l>THINK not, TRANSCENDENT MAID! my woe</l>
@@ -10245,7 +10245,7 @@ Yet having then fulfil'd my taſk,</l>
                <l>Becauſe he cannot <hi>urge</hi> his pain.</l>
             </lg>
             <lg>
-               <pb n="324" facs="tcp:025807_0330_0FCF2471A264BBB8"/>
+               <pb n="324" facs="unknown:025807_0330_0FCF2471A264BBB8"/>
                <l>But tho' he be ſo much ſubdu'd,</l>
                <l>And ev'ry ſcene of ſpirit leave</l>
                <l>As if he mourn'd for all he view'd,</l>
@@ -10283,7 +10283,7 @@ Yet having then fulfil'd my taſk,</l>
       </body>
       <back>
          <div type="table_of_contents">
-            <pb facs="tcp:025807_0331_0FCF2473176D7790"/>
+            <pb facs="unknown:025807_0331_0FCF2473176D7790"/>
             <head>CONTENTS.</head>
             <list>
                <item>THE Adieu and Recal to Love 1</item>
@@ -10339,7 +10339,7 @@ Yet having then fulfil'd my taſk,</l>
                <item>Diverſity, a Poem 224</item>
                <item>Sonnet. To the Muſe 241</item>
                <item>
-                  <pb facs="tcp:025807_0332_0FCF24760F193048"/>
+                  <pb facs="unknown:025807_0332_0FCF24760F193048"/>
 Sonnet. To Meliſſa's Lips 242</item>
                <item>The Valentine of Hopeleſs Love 243</item>
                <item>Meliſſa's Retire<g ref="char:EOLhyphen"/>ment 244</item>
